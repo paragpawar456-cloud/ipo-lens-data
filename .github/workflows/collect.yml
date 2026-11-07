@@ -1,0 +1,39 @@
+name: Collect IPO data
+
+on:
+  schedule:
+    # Once a day at 9:07 PM IST, after the evening GMP update. One run of up to 50 rows
+    # costs at most $0.15 on Apify, so a month fits inside the free plan's $5 credit.
+    - cron: "37 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch and merge
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          IPOGURU_API_KEY: ${{ secrets.IPOGURU_API_KEY }}
+        run: python3 collect.py ipos.json
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- ipos.json && git ls-files --error-unmatch ipos.json >/dev/null 2>&1; then
+            echo "No changes"; exit 0
+          fi
+          git config user.name "ipo-lens-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ipos.json
+          git commit -m "Update IPO data $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
