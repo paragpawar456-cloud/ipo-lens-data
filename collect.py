@@ -261,7 +261,7 @@ def get_json(url, params):
 
 
 GENERIC = {"limited", "ltd", "ltd.", "india", "indian", "the", "and", "&", "co", "co.", "company", "pvt", "private", "ipo",
-           "sme", "nse", "bse", "of", "corporation", "corp", "inc", "group"}
+           "sme", "nse", "bse", "of", "corporation", "corp", "inc"}
 WIKI = "https://en.wikipedia.org/w/api.php"
 WIKIDATA = "https://www.wikidata.org/w/api.php"
 
@@ -283,7 +283,7 @@ def wikipedia_profile(name):
         # Either the article title holds the whole name ("Tata Capital" for "Tata Capital"), or the name
         # adds generic words to the title ("Lenskart" for "Lenskart Solutions"), starting the same way.
         same_start = bool(tw) and tw[0] == key[0]
-        if "(disambiguation)" in title or not same_start or not (set(key) <= set(tw) or set(tw) <= set(key)):
+        if "(disambiguation)" in title or not same_start or not (set(key) <= set(tw) or (set(tw) <= set(key) and len(tw) >= len(key) - 1)):
             continue
         pages = get_json(WIKI, {"action": "query", "prop": "extracts|pageprops", "exintro": 1, "explaintext": 1,
                                 "exsentences": 5, "redirects": 1, "titles": title, "format": "json"})["query"]["pages"]
