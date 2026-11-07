@@ -2,8 +2,8 @@ name: Collect IPO data
 
 on:
   schedule:
-    # Once a day at 9:07 PM IST, after the evening GMP update. One run of up to 50 rows
-    # costs at most $0.15 on Apify, so a month fits inside the free plan's $5 credit.
+    # Once a day at 9:07 PM IST, after the evening GMP update. A daily run of about 65 rows
+    # costs about $0.20 on Apify. The first run also backfills 12 months of listings (about $2 once).
     - cron: "37 15 * * *"
   workflow_dispatch:
   push:
@@ -36,6 +36,6 @@ jobs:
           fi
           git config user.name "ipo-lens-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add ipos.json
+          git add ipos.json listed.json about.json
           git commit -m "Update IPO data $(date -u +%Y-%m-%dT%H:%MZ)"
           git push
