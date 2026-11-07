@@ -6,6 +6,8 @@ on:
     # costs at most $0.15 on Apify, so a month fits inside the free plan's $5 credit.
     - cron: "37 15 * * *"
   workflow_dispatch:
+  push:
+    paths: ["collect.py", ".github/workflows/collect.yml"]
 
 permissions:
   contents: write
