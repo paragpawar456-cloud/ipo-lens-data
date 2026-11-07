@@ -35,6 +35,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "admach-systems-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "adon-agro-commodities-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -53,6 +57,10 @@
  },
  "aegeus-technologies-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "aequs-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "ajwa-projects-ipo": {
@@ -103,6 +111,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "apollo-techno-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "apsis-aerocom-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -127,8 +139,16 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "ashwini-container-movers-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "asset-reconstruction-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "astron-multigrain-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "atharva-polyplast-ipo": {
@@ -163,6 +183,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "bai-kakaji-polymers-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "behari-lal-engineering-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -170,6 +194,19 @@
  "bench-mark-infotech-services-ipo": {
   "checked": "2026-11-07",
   "none": true
+ },
+ "bharat-coking-coal-ipo": {
+  "founded": 1972,
+  "headquarters": "Dhanbad",
+  "industries": [
+   "coal"
+  ],
+  "products": [
+   "metallurgical coal"
+  ],
+  "source": "Wikipedia",
+  "summary": "Bharat Coking Coal Limited (BCCL) is an Indian coking coal mining company, headquartered in Dhanbad. It is a subsidiary of Coal India Limited, a public sector enterprise which is under the administrative control of the Ministry of Coal. It was incorporated in January 1972 to operate coking coal mines (214 in number) operating in the Jharia and Raniganj Coalfields and was taken over by the Government of India on 16 October 1971.\nBCCL contributes 50% of the total prime coking coal requirement of the steel sector. The company operates 36 coal mines, which include eleven underground, sixteen open cast & nine mixed mines in the year 2020.",
+  "url": "https://en.wikipedia.org/wiki/Bharat_Coking_Coal"
  },
  "bio-medica-laboratories-ipo": {
   "checked": "2026-11-07",
@@ -207,6 +244,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "capillary-technologies-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "carver-roboweld-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -236,6 +277,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "clear-secured-services-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "cmr-green-technologies-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -256,6 +301,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "corona-remedies-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "crazy-snacks-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -266,6 +315,14 @@
  },
  "csm-technologies-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "curis-lifesciences-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
+ "dachepalli-publishers-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "deepa-jewellers-ipo": {
@@ -282,6 +339,10 @@
  },
  "dhanwel-hybrid-seeds-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "dhara-rail-projects-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "dhaval-packaging-ipo": {
@@ -308,6 +369,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "e-to-e-transportation-infrastructure-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "eaaa-india-alternatives-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -324,8 +389,16 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "emmvee-photovoltaic-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "ens-enterprises-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "epw-india-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "esds-software-ipo": {
@@ -340,6 +413,18 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "exato-technologies-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
+ "excelsoft-technologies-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
+ "exim-routes-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "farm-peace-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -348,8 +433,16 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "finbud-financial-services-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "fly-hi-maritime-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "flywings-simulator-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "fractal-analytics-ipo": {
@@ -365,6 +458,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "fujiyama-power-systems-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "fusion-cx-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -377,8 +474,16 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "gabion-technologies-india-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "gaja-alternative-asset-management-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "gallard-steel-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "gaudium-ivf-ipo": {
@@ -397,6 +502,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "global-ocean-logistics-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "goldline-pharmaceutical-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -413,8 +522,16 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "groww-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "gsp-crop-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "gujarat-kidney-and-super-speciality-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "gulf-lloyds-ipo": {
@@ -439,6 +556,10 @@
  },
  "hd-fire-protect-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "helloji-holidays-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "hero-motors-ipo": {
@@ -479,12 +600,20 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "hrs-aluglaze-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "hy-tech-engineers-ipo": {
   "checked": "2026-11-07",
   "none": true
  },
  "ic-electricals-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "icici-prudential-amc-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "indo-mim-ipo": {
@@ -505,6 +634,10 @@
  },
  "innovision-limited-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "invicta-diagnostic-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "jindal-supreme-ipo": {
@@ -539,6 +672,14 @@
  },
  "juniper-green-energy-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "k-k-silk-mills-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
+ "k-v-toys-india-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "kanishk-aluminium-india-ipo": {
@@ -577,6 +718,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "ksh-international-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "kusumgar-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -609,12 +754,28 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "lenskart-solutions-ipo": {
+  "founded": 2008,
+  "headquarters": "New Delhi",
+  "industries": [],
+  "products": [
+   "eyewear",
+   "sunglasses"
+  ],
+  "source": "Wikipedia",
+  "summary": "Lenskart Solutions Limited is an Indian multinational eyewear company, based in Gurgaon. As a vertically integrated company, it designs, manufactures, distributes, and retails prescription and regular eyewear. It sells its products through its website, a mobile app, and 2,000+ physical stores.\nLenskart has a manufacturing facility located in  Bhiwadi, Rajasthan, with an annual production capacity of 50 million units.",
+  "url": "https://en.wikipedia.org/wiki/Lenskart"
+ },
  "liotech-industries-ipo": {
   "checked": "2026-11-07",
   "none": true
  },
  "liqvd-digital-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "logiciel-solutions-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "lohia-corp-ipo": {
@@ -634,12 +795,20 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "luxury-time-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "m-r-maniveni-ipo": {
   "checked": "2026-11-07",
   "none": true
  },
  "madhur-knit-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "mahamaya-lifesciences-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "maharaja-speedex-ipo": {
@@ -662,6 +831,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "marc-technocrats-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "marushika-technology-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -669,6 +842,17 @@
  "maxwell-engineering-solutions-ipo": {
   "checked": "2026-11-07",
   "none": true
+ },
+ "meesho-ipo": {
+  "headquarters": "Bengaluru",
+  "industries": [
+   "information technology",
+   "social commerce"
+  ],
+  "products": [],
+  "source": "Wikipedia",
+  "summary": "Meesho Limited (short for Meri shop, transl. My shop) is an Indian e-commerce company, headquartered in Bengaluru. Founded by Vidit Aatrey and Sanjeev Barnwal in December 2015, Meesho is an online marketplace in categories such as fashion, home and kitchen, beauty and personal care, electronics accessories, and daily use products.",
+  "url": "https://en.wikipedia.org/wiki/Meesho"
  },
  "mehul-telecom-ipo": {
   "checked": "2026-11-07",
@@ -680,6 +864,10 @@
  },
  "metalic-technoforge-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "methodhub-software-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "milky-mist-dairy-food-ipo": {
@@ -700,6 +888,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "modern-diagnostic-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "molbio-diagnostics-ipo": {
   "headquarters": "GOA",
   "industries": [
@@ -718,6 +910,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "mother-nutri-foods-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "msafe-equipments-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -726,8 +922,24 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "nanta-tech-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "narmadesh-brass-industries-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "neochem-bio-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
+ "nephrocare-health-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
+ "neptune-logitek-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "nfp-sampoorna-foods-ipo": {
@@ -778,6 +990,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "pajson-agro-india-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "paluck-technologies-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -802,6 +1018,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "park-medi-world-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "peshwa-wheat-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -810,9 +1030,22 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "physicswallah-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "pind-hospitality-ipo": {
   "checked": "2026-11-07",
   "none": true
+ },
+ "pine-labs-ipo": {
+  "industries": [
+   "fintech"
+  ],
+  "products": [],
+  "source": "Wikipedia",
+  "summary": "Pine Labs is an Indian multinational Financial  Technology company headquartered in Noida, Uttar Pradesh, that provides point of sale (POS) systems and payment systems. Founded in 1998, it facilitates digital payments through Android-based POS machines that are primarily used by retailers in India, UAE, and Malaysia.",
+  "url": "https://en.wikipedia.org/wiki/Pine_Labs"
  },
  "pngs-reva-ipo": {
   "checked": "2026-11-07",
@@ -846,6 +1079,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "prodocs-solutions-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "propshare-celestia-scheme-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -856,6 +1093,10 @@
  },
  "purple-style-labs-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "purple-wave-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "q-line-biotec-ipo": {
@@ -890,6 +1131,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "ravelcare-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "ravita-engineering-services-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -908,6 +1153,10 @@
  },
  "rfbl-flexi-pack-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "riddhi-display-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "riyaasat-lifestyle-ipo": {
@@ -954,6 +1203,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "scalesauce-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "sedemac-mechatronics-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -998,8 +1251,16 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "shining-tools-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "shiprocket-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "shipwaves-online-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "shivchem-agro-ipo": {
@@ -1020,6 +1281,18 @@
  },
  "shreedhar-spinners-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "shreeji-global-fmcg-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
+ "shri-kanha-stainless-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
+ "shyam-dhani-industries-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "silverstorm-parks-resorts-ipo": {
@@ -1066,6 +1339,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "speb-adhesives-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "speciality-medicines-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -1086,6 +1363,14 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "ssmd-agrotech-india-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
+ "stanbik-agro-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "steamhouse-india-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -1094,8 +1379,16 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "sudeep-pharma-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "sumax-engineering-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "sundrex-oil-company-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "sunshine-pictures-ipo": {
@@ -1134,6 +1427,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "tenneco-clean-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "tipco-engineering-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -1152,6 +1449,10 @@
  },
  "uhm-vacation-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "unisem-agritech-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "unitec-fibres-ipo": {
@@ -1202,6 +1503,14 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "victory-electric-vehicles-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
+ "vidya-wires-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "vinit-mobile-ipo": {
   "checked": "2026-11-07",
   "none": true
@@ -1222,8 +1531,21 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "wakefit-innovations-ipo": {
+  "source": "Wikipedia",
+  "summary": "Wakefit Innovations Ltd is an Indian home and furnishings company headquartered in Bengaluru, Karnataka. Incorporated in 2016, it sells mattresses, furniture, and furnishing and décor products. The company was listed on the Bombay Stock Exchange and National Stock Exchange of India on 15 December 2025 following an IPO of ₹1,289 crore. For financial year 2026, the company reported revenues of ₹1,489 crore.",
+  "url": "https://en.wikipedia.org/wiki/Wakefit"
+ },
+ "western-overseas-ipo": {
+  "checked": "2026-11-08",
+  "none": true
+ },
  "wiscon-industries-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "workmates-core2cloud-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "xtranet-technologies-ipo": {
@@ -1236,6 +1558,10 @@
  },
  "yaashvi-jewellers-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "yajur-fibres-ipo": {
+  "checked": "2026-11-08",
   "none": true
  },
  "yashhtej-industries-india-ipo": {

@@ -2,7 +2,7 @@
  "version": 1,
  "source": "InvestorGain via Apify",
  "sourceUrl": "https://www.investorgain.com",
- "updatedAt": "2026-11-07T18:46:12+05:30",
+ "updatedAt": "2026-11-08T01:06:24+05:30",
  "ipos": [
   {
    "id": "antala-industries-ipo",
@@ -28,11 +28,15 @@
    "gmp": {
     "price": 0.0,
     "percent": 0.0,
-    "updatedAt": "7-Nov 17:58"
+    "updatedAt": "7-Nov 23:28"
    },
    "gmpHistory": [
     {
      "date": "2026-11-07",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-08",
      "gmp": 0.0
     }
    ],
@@ -63,11 +67,15 @@
    "gmp": {
     "price": 1.0,
     "percent": 1.06,
-    "updatedAt": "7-Nov 18:02"
+    "updatedAt": "7-Nov 23:37"
    },
    "gmpHistory": [
     {
      "date": "2026-11-07",
+     "gmp": 1.0
+    },
+    {
+     "date": "2026-11-08",
      "gmp": 1.0
     }
    ],
@@ -104,6 +112,10 @@
     {
      "date": "2026-11-07",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-08",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -138,6 +150,10 @@
    "gmpHistory": [
     {
      "date": "2026-11-07",
+     "gmp": 105.0
+    },
+    {
+     "date": "2026-11-08",
      "gmp": 105.0
     }
    ],
@@ -174,6 +190,10 @@
     {
      "date": "2026-11-07",
      "gmp": 8.0
+    },
+    {
+     "date": "2026-11-08",
+     "gmp": 8.0
     }
    ],
    "about": null,
@@ -208,6 +228,10 @@
    "gmpHistory": [
     {
      "date": "2026-11-07",
+     "gmp": 27.0
+    },
+    {
+     "date": "2026-11-08",
      "gmp": 27.0
     }
    ],
@@ -244,6 +268,10 @@
     {
      "date": "2026-11-07",
      "gmp": 8.0
+    },
+    {
+     "date": "2026-11-08",
+     "gmp": 8.0
     }
    ],
    "about": null,
@@ -278,6 +306,10 @@
    "gmpHistory": [
     {
      "date": "2026-11-07",
+     "gmp": 11.0
+    },
+    {
+     "date": "2026-11-08",
      "gmp": 11.0
     }
    ],
@@ -314,6 +346,10 @@
     {
      "date": "2026-11-07",
      "gmp": 4.0
+    },
+    {
+     "date": "2026-11-08",
+     "gmp": 4.0
     }
    ],
    "about": null,
@@ -348,6 +384,10 @@
    "gmpHistory": [
     {
      "date": "2026-11-07",
+     "gmp": 1.0
+    },
+    {
+     "date": "2026-11-08",
      "gmp": 1.0
     }
    ],
@@ -384,6 +424,10 @@
     {
      "date": "2026-11-07",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-08",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -418,6 +462,10 @@
    "gmpHistory": [
     {
      "date": "2026-11-07",
+     "gmp": 15.5
+    },
+    {
+     "date": "2026-11-08",
      "gmp": 15.5
     }
    ],
@@ -454,6 +502,10 @@
     {
      "date": "2026-11-07",
      "gmp": 69.0
+    },
+    {
+     "date": "2026-11-08",
+     "gmp": 69.0
     }
    ],
    "about": null,
@@ -488,6 +540,10 @@
    "gmpHistory": [
     {
      "date": "2026-11-07",
+     "gmp": 54.0
+    },
+    {
+     "date": "2026-11-08",
      "gmp": 54.0
     }
    ],
@@ -524,6 +580,10 @@
     {
      "date": "2026-11-07",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-08",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -559,6 +619,10 @@
     {
      "date": "2026-11-07",
      "gmp": 13.0
+    },
+    {
+     "date": "2026-11-08",
+     "gmp": 13.0
     }
    ],
    "about": null,
@@ -593,6 +657,10 @@
    "gmpHistory": [
     {
      "date": "2026-11-07",
+     "gmp": 250.0
+    },
+    {
+     "date": "2026-11-08",
      "gmp": 250.0
     }
    ],
@@ -646,6 +714,10 @@
     {
      "date": "2026-11-07",
      "gmp": 1.2
+    },
+    {
+     "date": "2026-11-08",
+     "gmp": 1.2
     }
    ],
    "about": null,
@@ -680,6 +752,10 @@
    "gmpHistory": [
     {
      "date": "2026-11-07",
+     "gmp": 452.0
+    },
+    {
+     "date": "2026-11-08",
      "gmp": 452.0
     }
    ],
@@ -716,6 +792,10 @@
     {
      "date": "2026-11-07",
      "gmp": 7.0
+    },
+    {
+     "date": "2026-11-08",
+     "gmp": 7.0
     }
    ],
    "about": null,
@@ -750,6 +830,10 @@
    "gmpHistory": [
     {
      "date": "2026-11-07",
+     "gmp": 17.0
+    },
+    {
+     "date": "2026-11-08",
      "gmp": 17.0
     }
    ],
@@ -786,6 +870,10 @@
     {
      "date": "2026-11-07",
      "gmp": 66.0
+    },
+    {
+     "date": "2026-11-08",
+     "gmp": 66.0
     }
    ],
    "about": null,
@@ -821,6 +909,10 @@
     {
      "date": "2026-11-07",
      "gmp": 1.0
+    },
+    {
+     "date": "2026-11-08",
+     "gmp": 1.0
     }
    ],
    "about": null,
@@ -855,6 +947,10 @@
    "gmpHistory": [
     {
      "date": "2026-11-07",
+     "gmp": 13.5
+    },
+    {
+     "date": "2026-11-08",
      "gmp": 13.5
     }
    ],
@@ -925,6 +1021,10 @@
    "gmpHistory": [
     {
      "date": "2026-11-07",
+     "gmp": 70.0
+    },
+    {
+     "date": "2026-11-08",
      "gmp": 70.0
     }
    ],
@@ -6093,9 +6193,6 @@
     }
    ],
    "about": {
-    "summary": "LML (formerly Lohia Machines Ltd) was an Indian scooter and motorcycle manufacturer formerly based in Kanpur, Uttar Pradesh.",
-    "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Lohia_Machinery_Limited",
     "founded": 1972,
     "headquarters": "Gurgaon",
     "industries": [
@@ -6103,7 +6200,10 @@
     ],
     "products": [
      "motor scooter"
-    ]
+    ],
+    "source": "Wikipedia",
+    "summary": "LML (formerly Lohia Machines Ltd) was an Indian scooter and motorcycle manufacturer formerly based in Kanpur, Uttar Pradesh.",
+    "url": "https://en.wikipedia.org/wiki/Lohia_Machinery_Limited"
    },
    "detailsUrl": "https://www.google.com/search?q=Lohia+Corp+IPO+company+profile"
   },
@@ -8905,13 +9005,13 @@
     }
    ],
    "about": {
-    "summary": "The Central Mine Planning and Design Institute (CMPDI) is an Indian public sector company which provides coal exploration consulting and mining engineering services. It is a subsidiary of Coal India Limited, a public sector undertaking administered by the Ministry of Coal, Government of India.",
-    "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Central_Mine_Planning_and_Design_Institute",
     "founded": 1975,
     "headquarters": "Ranchi",
     "industries": [],
-    "products": []
+    "products": [],
+    "source": "Wikipedia",
+    "summary": "The Central Mine Planning and Design Institute (CMPDI) is an Indian public sector company which provides coal exploration consulting and mining engineering services. It is a subsidiary of Coal India Limited, a public sector undertaking administered by the Ministry of Coal, Government of India.",
+    "url": "https://en.wikipedia.org/wiki/Central_Mine_Planning_and_Design_Institute"
    },
    "detailsUrl": "https://www.google.com/search?q=Central+Mine+Planning+IPO+company+profile"
   },
@@ -9788,13 +9888,13 @@
     }
    ],
    "about": {
-    "summary": "Fractal Analytics Limited is an artificial intelligence and data analytics company based in Mumbai, India, with a second headquarter in New York City.",
-    "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Fractal_Analytics",
     "founded": 2000,
     "headquarters": "United States",
     "industries": [],
-    "products": []
+    "products": [],
+    "source": "Wikipedia",
+    "summary": "Fractal Analytics Limited is an artificial intelligence and data analytics company based in Mumbai, India, with a second headquarter in New York City.",
+    "url": "https://en.wikipedia.org/wiki/Fractal_Analytics"
    },
    "detailsUrl": "https://www.google.com/search?q=Fractal+Analytics+IPO+company+profile"
   },
@@ -10635,7 +10735,19 @@
      "gmp": 18.5
     }
    ],
-   "about": null,
+   "about": {
+    "summary": "Bharat Coking Coal Limited (BCCL) is an Indian coking coal mining company, headquartered in Dhanbad. It is a subsidiary of Coal India Limited, a public sector enterprise which is under the administrative control of the Ministry of Coal. It was incorporated in January 1972 to operate coking coal mines (214 in number) operating in the Jharia and Raniganj Coalfields and was taken over by the Government of India on 16 October 1971.\nBCCL contributes 50% of the total prime coking coal requirement of the steel sector. The company operates 36 coal mines, which include eleven underground, sixteen open cast & nine mixed mines in the year 2020.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bharat_Coking_Coal",
+    "founded": 1972,
+    "headquarters": "Dhanbad",
+    "industries": [
+     "coal"
+    ],
+    "products": [
+     "metallurgical coal"
+    ]
+   },
    "detailsUrl": "https://www.google.com/search?q=Bharat+Coking+Coal+IPO+company+profile"
   },
   {
@@ -11685,7 +11797,11 @@
      "gmp": 4.0
     }
    ],
-   "about": null,
+   "about": {
+    "summary": "Wakefit Innovations Ltd is an Indian home and furnishings company headquartered in Bengaluru, Karnataka. Incorporated in 2016, it sells mattresses, furniture, and furnishing and décor products. The company was listed on the Bombay Stock Exchange and National Stock Exchange of India on 15 December 2025 following an IPO of ₹1,289 crore. For financial year 2026, the company reported revenues of ₹1,489 crore.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wakefit"
+   },
    "detailsUrl": "https://www.google.com/search?q=Wakefit+Innovations+IPO+company+profile"
   },
   {
@@ -12105,7 +12221,17 @@
      "gmp": 42.0
     }
    ],
-   "about": null,
+   "about": {
+    "summary": "Meesho Limited (short for Meri shop, transl. My shop) is an Indian e-commerce company, headquartered in Bengaluru. Founded by Vidit Aatrey and Sanjeev Barnwal in December 2015, Meesho is an online marketplace in categories such as fashion, home and kitchen, beauty and personal care, electronics accessories, and daily use products.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Meesho",
+    "headquarters": "Bengaluru",
+    "industries": [
+     "information technology",
+     "social commerce"
+    ],
+    "products": []
+   },
    "detailsUrl": "https://www.google.com/search?q=Meesho+IPO+company+profile"
   },
   {
@@ -13015,7 +13141,15 @@
      "gmp": 5.5
     }
    ],
-   "about": null,
+   "about": {
+    "summary": "Pine Labs is an Indian multinational Financial  Technology company headquartered in Noida, Uttar Pradesh, that provides point of sale (POS) systems and payment systems. Founded in 1998, it facilitates digital payments through Android-based POS machines that are primarily used by retailers in India, UAE, and Malaysia.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pine_Labs",
+    "industries": [
+     "fintech"
+    ],
+    "products": []
+   },
    "detailsUrl": "https://www.google.com/search?q=Pine+Labs+IPO+company+profile"
   },
   {
@@ -13190,43 +13324,19 @@
      "gmp": 10.0
     }
    ],
-   "about": null,
-   "detailsUrl": "https://www.google.com/search?q=Lenskart+Solutions+IPO+company+profile"
-  },
-  {
-   "id": "studds-accessories-ipo",
-   "name": "Studds Accessories",
-   "symbol": "STUDDS",
-   "type": "MAINBOARD",
-   "status": "LISTED",
-   "datesTba": false,
-   "logo": null,
-   "webUrl": null,
-   "openDate": null,
-   "closeDate": null,
-   "allotmentDate": null,
-   "listingDate": "2025-11-07",
-   "priceMin": null,
-   "priceMax": 585.0,
-   "lotSize": null,
-   "issueSizeCr": 455.49,
-   "subscriptionTotal": 73.25,
-   "listingPrice": 565.0,
-   "currentPrice": 398.25,
-   "pe": null,
-   "gmp": {
-    "price": 35.0,
-    "percent": 5.98,
-    "updatedAt": null
+   "about": {
+    "summary": "Lenskart Solutions Limited is an Indian multinational eyewear company, based in Gurgaon. As a vertically integrated company, it designs, manufactures, distributes, and retails prescription and regular eyewear. It sells its products through its website, a mobile app, and 2,000+ physical stores.\nLenskart has a manufacturing facility located in  Bhiwadi, Rajasthan, with an annual production capacity of 50 million units.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lenskart",
+    "founded": 2008,
+    "headquarters": "New Delhi",
+    "industries": [],
+    "products": [
+     "eyewear",
+     "sunglasses"
+    ]
    },
-   "gmpHistory": [
-    {
-     "date": "2025-11-06",
-     "gmp": 35.0
-    }
-   ],
-   "about": null,
-   "detailsUrl": "https://www.google.com/search?q=Studds+Accessories+IPO+company+profile"
+   "detailsUrl": "https://www.google.com/search?q=Lenskart+Solutions+IPO+company+profile"
   }
  ]
 }
