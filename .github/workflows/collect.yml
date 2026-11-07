@@ -2,12 +2,10 @@ name: Collect IPO data
 
 on:
   schedule:
-    # Once a day at 9:07 PM IST, after the evening GMP update. A daily run of about 65 rows
-    # costs about $0.20 on Apify. The first run also backfills 12 months of listings (about $2 once).
+    # Once a day at 9:07 PM IST, after the evening GMP update. A daily run of about 30 rows
+    # uses about $0.09 of the free Apify credit. The first run also backfilled 12 months of listings (about $2 once).
     - cron: "37 15 * * *"
   workflow_dispatch:
-  push:
-    paths: ["collect.py", ".github/workflows/collect.yml"]
 
 permissions:
   contents: write

@@ -5,7 +5,7 @@ ipos.json for the IPO Lens app. Keeps its own day-wise GMP history.
 
 Two providers are supported; the first one with a credential set is used:
   APIFY_TOKEN      India IPO Tracker actor on Apify (reads InvestorGain's GMP report).
-                   Free Apify plan includes $5/month; one daily run of ~40 rows costs about $0.12.
+                   Free Apify plan includes $5/month of usage with no card; a daily run of ~30 rows uses about $0.09 of it.
   IPOGURU_API_KEY  IPO Guru API (free plan: 10 requests/day, non-commercial).
 
 Also keeps:
@@ -29,7 +29,7 @@ IPOGURU_API = "https://www.ipoguru.in/api/v2/ipos?months=3"
 APIFY_API = "https://api.apify.com/v2/acts/data_daemon~india-ipo-tracker/run-sync-get-dataset-items?format=json&clean=true"
 SCHEMA_VERSION = 1
 KEEP_LISTED_DAYS = 365
-PERF_DAILY_ROWS = 15
+PERF_DAILY_ROWS = 6
 ABOUT_LOOKUPS_PER_RUN = 150
 ABOUT_RETRY_DAYS = 60
 UA = "IPOLensDataBot/1.0 (https://github.com/paragpawar456-cloud/ipo-lens-data)"
@@ -115,7 +115,7 @@ def apify_rows(token, payload):
 
 
 def fetch_apify(token):
-    rows = apify_rows(token, {"reports": ["gmp"], "category": "all", "maxItems": 50})
+    rows = apify_rows(token, {"reports": ["gmp"], "category": "all", "maxItems": 40})
     return [row for row in rows if row.get("reportType", "gmp") == "gmp" and row.get("slug")]
 
 
