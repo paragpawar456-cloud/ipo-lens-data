@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#!/usr/bin/env python3
 """
 Fetches open, upcoming and recent IPOs with live GMP and subscription, and writes a normalised
 ipos.json for the IPO Lens app. Keeps its own day-wise GMP history.
