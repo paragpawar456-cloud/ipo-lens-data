@@ -2,7 +2,7 @@
  "version": 1,
  "source": "InvestorGain via Apify",
  "sourceUrl": "https://www.investorgain.com",
- "updatedAt": "2026-11-07T18:39:48+05:30",
+ "updatedAt": "2026-11-07T18:44:00+05:30",
  "ipos": [
   {
    "id": "antala-industries-ipo",
@@ -597,9 +597,6 @@
     }
    ],
    "about": {
-    "summary": "Jio Platforms Limited is an Indian multinational technology company, headquartered in Mumbai. It is a subsidiary of Reliance Industries. Established in 2019, it acts as a holding company for India's largest mobile network operator, Jio, and other digital businesses of Reliance.\nIn 2020, Jio Platforms raised ₹152,056 crore (US$20.52 billion) in exchange for 32.97% equity stake in the company.",
-    "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Jio_Platforms",
     "founded": 2019,
     "headquarters": "Mumbai",
     "industries": [
@@ -612,7 +609,10 @@
      "mass media",
      "smartphone",
      "instant messaging"
-    ]
+    ],
+    "source": "Wikipedia",
+    "summary": "Jio Platforms Limited is an Indian multinational technology company, headquartered in Mumbai. It is a subsidiary of Reliance Industries. Established in 2019, it acts as a holding company for India's largest mobile network operator, Jio, and other digital businesses of Reliance.\nIn 2020, Jio Platforms raised ₹152,056 crore (US$20.52 billion) in exchange for 32.97% equity stake in the company.",
+    "url": "https://en.wikipedia.org/wiki/Jio_Platforms"
    },
    "detailsUrl": "https://www.investorgain.com/ipo/jio-platforms-ipo/2306/"
   },
@@ -2923,7 +2923,12 @@
      "gmp": -3.0
     }
    ],
-   "about": null,
+   "about": {
+    "summary": "Hero Motors Company (HMC) is an Indian multinational business conglomerate controlled by Pankaj M Munjal.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hero_Motors_Company",
+    "founded": 2007
+   },
    "detailsUrl": "https://www.google.com/search?q=Hero+Motors+IPO+company+profile"
   },
   {
@@ -5268,7 +5273,12 @@
      "gmp": 19.7
     }
    ],
-   "about": null,
+   "about": {
+    "summary": "Milky Mist Dairy Food Limited (MMD) is an Indian manufacturer of dairy products, based in Perundurai, Tamil Nadu. Formed in 1997 by T. Sathish Kumar, Milky Mist is engaged in milk procurement, processing, and manufacturing of other dairy products. Milky Mist's products include frozen food, dairy, desserts, food enhancers and yogurts.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Milky_Mist_Dairy",
+    "founded": 1992
+   },
    "detailsUrl": "https://www.google.com/search?q=Milky+Mist+Dairy+Food+IPO+company+profile"
   },
   {
@@ -5303,7 +5313,16 @@
      "gmp": 116.0
     }
    ],
-   "about": null,
+   "about": {
+    "summary": "Molbio Diagnostics Limited is an Indian medical diagnostics company headquartered in Verna, Goa, that develops molecular diagnostic technologies. Founded in 2000, the company developed the Truenat platform, a portable real-time PCR system used to diagnose infectious diseases including tuberculosis, HIV, and hepatitis.\nThe Truenat platform is recognized by the World Health Organization (WHO) for the initial detection of tuberculosis and rifampicin resistance. Following clinical studies, including research published in The Lancet, the technology has been adopted by national health programs in over 85 countries.\nIn 2025, Molbio was awarded the Kochon Prize by the Stop TB Partnership, the world's largest award for tuberculosis.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Molbio_Diagnostics",
+    "headquarters": "GOA",
+    "industries": [
+     "medical equipment"
+    ],
+    "products": []
+   },
    "detailsUrl": "https://www.google.com/search?q=Molbio+Diagnostics+IPO+company+profile"
   },
   {
