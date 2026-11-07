@@ -1,0 +1,833 @@
+{
+ "version": 1,
+ "source": "InvestorGain via Apify",
+ "sourceUrl": "https://www.investorgain.com",
+ "updatedAt": "2026-11-07T18:20:51+05:30",
+ "ipos": [
+  {
+   "id": "hd-fire-protect-ipo",
+   "name": "HD Fire Protect",
+   "symbol": "HDFIRE",
+   "type": "MAINBOARD",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/hd-fire-protect-ipo/1902/",
+   "openDate": "2026-10-13",
+   "closeDate": "2026-10-15",
+   "allotmentDate": "2026-10-16",
+   "listingDate": "2026-10-21",
+   "priceMin": null,
+   "priceMax": 271.0,
+   "lotSize": 55,
+   "issueSizeCr": 712.13,
+   "subscriptionTotal": 131.73,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 40.69,
+   "gmp": {
+    "price": 70.0,
+    "percent": 25.83,
+    "updatedAt": "21-Oct 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 70.0
+    }
+   ]
+  },
+  {
+   "id": "fusion-cx-ipo",
+   "name": "Fusion CX",
+   "symbol": "FUSION",
+   "type": "MAINBOARD",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/fusion-cx-ipo/1792/",
+   "openDate": "2026-10-14",
+   "closeDate": "2026-10-16",
+   "allotmentDate": "2026-10-19",
+   "listingDate": "2026-10-22",
+   "priceMin": null,
+   "priceMax": 289.0,
+   "lotSize": 51,
+   "issueSizeCr": 702.0,
+   "subscriptionTotal": 4.68,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 21.62,
+   "gmp": {
+    "price": 13.5,
+    "percent": 4.67,
+    "updatedAt": "22-Oct 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 13.5
+    }
+   ]
+  },
+  {
+   "id": "ravita-engineering-services-ipo",
+   "name": "Ravita Engineering Services",
+   "symbol": "RAVITA",
+   "type": "SME",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/ravita-engineering-services-ipo/2220/",
+   "openDate": "2026-10-14",
+   "closeDate": "2026-10-16",
+   "allotmentDate": "2026-10-19",
+   "listingDate": "2026-10-22",
+   "priceMin": null,
+   "priceMax": 112.0,
+   "lotSize": 1200,
+   "issueSizeCr": 116.05,
+   "subscriptionTotal": 7.11,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 10.92,
+   "gmp": {
+    "price": 1.0,
+    "percent": 0.89,
+    "updatedAt": "22-Oct 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 1.0
+    }
+   ]
+  },
+  {
+   "id": "bonfiglioli-transmissions-ipo",
+   "name": "Bonfiglioli Transmissions",
+   "symbol": "BONFIGLIOL",
+   "type": "MAINBOARD",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/bonfiglioli-transmissions-ipo/2124/",
+   "openDate": "2026-10-15",
+   "closeDate": "2026-10-19",
+   "allotmentDate": "2026-10-21",
+   "listingDate": "2026-10-23",
+   "priceMin": null,
+   "priceMax": 586.0,
+   "lotSize": 25,
+   "issueSizeCr": 2533.66,
+   "subscriptionTotal": 46.05,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 46.32,
+   "gmp": {
+    "price": 66.0,
+    "percent": 11.26,
+    "updatedAt": "23-Oct 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 66.0
+    }
+   ]
+  },
+  {
+   "id": "sahajanand-medical-technologies-ipo",
+   "name": "Sahajanand Medical Technologies",
+   "symbol": "SAHAJANAND",
+   "type": "MAINBOARD",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/sahajanand-medical-technologies-ipo/1842/",
+   "openDate": "2026-10-15",
+   "closeDate": "2026-10-19",
+   "allotmentDate": "2026-10-21",
+   "listingDate": "2026-10-23",
+   "priceMin": null,
+   "priceMax": 344.0,
+   "lotSize": 43,
+   "issueSizeCr": 475.48,
+   "subscriptionTotal": 14.21,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 50.59,
+   "gmp": {
+    "price": 17.0,
+    "percent": 4.94,
+    "updatedAt": "23-Oct 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 17.0
+    }
+   ]
+  },
+  {
+   "id": "shellz-india-ipo",
+   "name": "Shellz India",
+   "symbol": "SHELLZ",
+   "type": "SME",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/shellz-india-ipo/2228/",
+   "openDate": "2026-10-15",
+   "closeDate": "2026-10-19",
+   "allotmentDate": "2026-10-21",
+   "listingDate": "2026-10-23",
+   "priceMin": null,
+   "priceMax": 179.0,
+   "lotSize": 800,
+   "issueSizeCr": 59.97,
+   "subscriptionTotal": 58.54,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 11.67,
+   "gmp": {
+    "price": 7.0,
+    "percent": 3.91,
+    "updatedAt": "23-Oct 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 7.0
+    }
+   ]
+  },
+  {
+   "id": "tonbo-imaging-india-ipo",
+   "name": "Tonbo Imaging India",
+   "symbol": "TONBO",
+   "type": "MAINBOARD",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/tonbo-imaging-india-ipo/2369/",
+   "openDate": "2026-10-15",
+   "closeDate": "2026-10-19",
+   "allotmentDate": "2026-10-21",
+   "listingDate": "2026-10-23",
+   "priceMin": null,
+   "priceMax": 700.0,
+   "lotSize": 21,
+   "issueSizeCr": 852.18,
+   "subscriptionTotal": 132.81,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 78.83,
+   "gmp": {
+    "price": 452.0,
+    "percent": 64.57,
+    "updatedAt": "23-Oct 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 452.0
+    }
+   ]
+  },
+  {
+   "id": "zetwerk-ipo",
+   "name": "Zetwerk",
+   "symbol": "ZETWERK",
+   "type": "MAINBOARD",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/zetwerk-ipo/2279/",
+   "openDate": "2026-10-15",
+   "closeDate": "2026-10-19",
+   "allotmentDate": "2026-10-21",
+   "listingDate": "2026-10-23",
+   "priceMin": null,
+   "priceMax": 151.0,
+   "lotSize": 99,
+   "issueSizeCr": 5012.33,
+   "subscriptionTotal": 3.1,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": -14.17,
+   "gmp": {
+    "price": 1.2,
+    "percent": 0.79,
+    "updatedAt": "23-Oct 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 1.2
+    }
+   ]
+  },
+  {
+   "id": "jio-platforms-ipo",
+   "name": "Jio Platforms",
+   "symbol": "JIOPLATFOR",
+   "type": "MAINBOARD",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/",
+   "openDate": "2026-10-21",
+   "closeDate": "2026-10-23",
+   "allotmentDate": "2026-10-26",
+   "listingDate": "2026-10-28",
+   "priceMin": null,
+   "priceMax": 1119.0,
+   "lotSize": 12,
+   "issueSizeCr": 30187.65,
+   "subscriptionTotal": 21.36,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 33.28,
+   "gmp": {
+    "price": 250.0,
+    "percent": 22.34,
+    "updatedAt": "28-Oct 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 250.0
+    }
+   ]
+  },
+  {
+   "id": "paras-healthcare-ipo",
+   "name": "Paras Healthcare",
+   "symbol": "PARAS",
+   "type": "MAINBOARD",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/paras-healthcare-ipo/1728/",
+   "openDate": "2026-10-21",
+   "closeDate": "2026-10-23",
+   "allotmentDate": "2026-10-26",
+   "listingDate": "2026-10-28",
+   "priceMin": null,
+   "priceMax": 693.0,
+   "lotSize": 21,
+   "issueSizeCr": 1450.0,
+   "subscriptionTotal": 2.34,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 159.68,
+   "gmp": {
+    "price": 13.0,
+    "percent": 1.88,
+    "updatedAt": "28-Oct 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 13.0
+    }
+   ]
+  },
+  {
+   "id": "core4-engineers-ipo",
+   "name": "Core4 Engineers",
+   "symbol": "CORE4",
+   "type": "SME",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/core4-engineers-ipo/2229/",
+   "openDate": "2026-10-23",
+   "closeDate": "2026-10-27",
+   "allotmentDate": "2026-10-28",
+   "listingDate": "2026-10-30",
+   "priceMin": null,
+   "priceMax": 93.0,
+   "lotSize": 1200,
+   "issueSizeCr": 54.82,
+   "subscriptionTotal": 5.44,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 11.12,
+   "gmp": {
+    "price": 0.0,
+    "percent": 0.0,
+    "updatedAt": "30-Oct 9:28"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 0.0
+    }
+   ]
+  },
+  {
+   "id": "eaaa-india-alternatives-ipo",
+   "name": "EAAA India Alternatives",
+   "symbol": "EAAA",
+   "type": "MAINBOARD",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/eaaa-india-alternatives-ipo/1635/",
+   "openDate": "2026-10-26",
+   "closeDate": "2026-10-28",
+   "allotmentDate": "2026-10-29",
+   "listingDate": "2026-11-02",
+   "priceMin": null,
+   "priceMax": 1665.0,
+   "lotSize": 9,
+   "issueSizeCr": 1200.0,
+   "subscriptionTotal": 5.51,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 40.59,
+   "gmp": {
+    "price": 54.0,
+    "percent": 3.24,
+    "updatedAt": "2-Nov 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 54.0
+    }
+   ]
+  },
+  {
+   "id": "bls-polymers-ipo",
+   "name": "BLS Polymers",
+   "symbol": "BLSPOLYMER",
+   "type": "MAINBOARD",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/bls-polymers-ipo/1849/",
+   "openDate": "2026-10-27",
+   "closeDate": "2026-10-29",
+   "allotmentDate": "2026-10-30",
+   "listingDate": "2026-11-03",
+   "priceMin": null,
+   "priceMax": 150.0,
+   "lotSize": 100,
+   "issueSizeCr": 255.0,
+   "subscriptionTotal": 241.22,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 25.0,
+   "gmp": {
+    "price": 69.0,
+    "percent": 46.0,
+    "updatedAt": "3-Nov 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 69.0
+    }
+   ]
+  },
+  {
+   "id": "sfc-environmental-technologies-ipo",
+   "name": "SFC Environmental Technologies",
+   "symbol": "SFCENVIRON",
+   "type": "MAINBOARD",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/sfc-environmental-technologies-ipo/1642/",
+   "openDate": "2026-10-27",
+   "closeDate": "2026-10-29",
+   "allotmentDate": "2026-10-30",
+   "listingDate": "2026-11-03",
+   "priceMin": null,
+   "priceMax": 330.0,
+   "lotSize": 45,
+   "issueSizeCr": 667.53,
+   "subscriptionTotal": 9.47,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 19.24,
+   "gmp": {
+    "price": 15.5,
+    "percent": 4.7,
+    "updatedAt": "3-Nov 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 15.5
+    }
+   ]
+  },
+  {
+   "id": "wiscon-industries-ipo",
+   "name": "Wiscon Industries",
+   "symbol": "WISCON",
+   "type": "SME",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/wiscon-industries-ipo/2356/",
+   "openDate": "2026-10-27",
+   "closeDate": "2026-10-29",
+   "allotmentDate": "2026-10-30",
+   "listingDate": "2026-11-03",
+   "priceMin": null,
+   "priceMax": 204.0,
+   "lotSize": 600,
+   "issueSizeCr": 110.0,
+   "subscriptionTotal": 1.17,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 15.67,
+   "gmp": {
+    "price": 0.0,
+    "percent": 0.0,
+    "updatedAt": "3-Nov 9:33"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 0.0
+    }
+   ]
+  },
+  {
+   "id": "ajwa-projects-ipo",
+   "name": "Ajwa Projects",
+   "symbol": "AJWA",
+   "type": "SME",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/ajwa-projects-ipo/2017/",
+   "openDate": "2026-10-28",
+   "closeDate": "2026-10-30",
+   "allotmentDate": "2026-11-02",
+   "listingDate": "2026-11-04",
+   "priceMin": null,
+   "priceMax": 203.0,
+   "lotSize": 600,
+   "issueSizeCr": 38.05,
+   "subscriptionTotal": 1.12,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 14.97,
+   "gmp": {
+    "price": 1.0,
+    "percent": 0.49,
+    "updatedAt": "4-Nov 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 1.0
+    }
+   ]
+  },
+  {
+   "id": "carver-roboweld-ipo",
+   "name": "Carver Roboweld",
+   "symbol": "CARVER",
+   "type": "SME",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/carver-roboweld-ipo/2393/",
+   "openDate": "2026-10-28",
+   "closeDate": "2026-10-30",
+   "allotmentDate": "2026-11-02",
+   "listingDate": "2026-11-04",
+   "priceMin": null,
+   "priceMax": 80.0,
+   "lotSize": 1600,
+   "issueSizeCr": 28.29,
+   "subscriptionTotal": 25.8,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 21.98,
+   "gmp": {
+    "price": 4.0,
+    "percent": 5.0,
+    "updatedAt": "4-Nov 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 4.0
+    }
+   ]
+  },
+  {
+   "id": "mksons-fine-jewels-ipo",
+   "name": "M.K.Sons Fine Jewels",
+   "symbol": "MKSONS",
+   "type": "MAINBOARD",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/mksons-fine-jewels-ipo/2288/",
+   "openDate": "2026-10-28",
+   "closeDate": "2026-10-30",
+   "allotmentDate": "2026-11-02",
+   "listingDate": "2026-11-04",
+   "priceMin": null,
+   "priceMax": 162.0,
+   "lotSize": 91,
+   "issueSizeCr": 275.4,
+   "subscriptionTotal": 5.09,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 13.36,
+   "gmp": {
+    "price": 11.0,
+    "percent": 6.79,
+    "updatedAt": "4-Nov 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 11.0
+    }
+   ]
+  },
+  {
+   "id": "antala-industries-ipo",
+   "name": "Antala Industries",
+   "symbol": "ANTALA",
+   "type": "SME",
+   "status": "CLOSED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/antala-industries-ipo/2375/",
+   "openDate": "2026-10-29",
+   "closeDate": "2026-11-05",
+   "allotmentDate": "2026-11-06",
+   "listingDate": "2026-11-11",
+   "priceMin": null,
+   "priceMax": 66.0,
+   "lotSize": 2000,
+   "issueSizeCr": 22.98,
+   "subscriptionTotal": 12.79,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 13.52,
+   "gmp": {
+    "price": 0.0,
+    "percent": 0.0,
+    "updatedAt": "7-Nov 17:58"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 0.0
+    }
+   ]
+  },
+  {
+   "id": "bombay-coated-and-special-steels-ipo",
+   "name": "Bombay Coated and Special Steels",
+   "symbol": "BOMBAY",
+   "type": "MAINBOARD",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/bombay-coated-and-special-steels-ipo/1936/",
+   "openDate": "2026-10-29",
+   "closeDate": "2026-11-02",
+   "allotmentDate": "2026-11-03",
+   "listingDate": "2026-11-05",
+   "priceMin": null,
+   "priceMax": 82.0,
+   "lotSize": 182,
+   "issueSizeCr": 183.06,
+   "subscriptionTotal": 63.89,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 10.88,
+   "gmp": {
+    "price": 8.0,
+    "percent": 9.76,
+    "updatedAt": "5-Nov 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 8.0
+    }
+   ]
+  },
+  {
+   "id": "hgs-india-ipo",
+   "name": "HGS (India)",
+   "symbol": "HGS",
+   "type": "SME",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/hgs-india-ipo/2241/",
+   "openDate": "2026-10-30",
+   "closeDate": "2026-11-03",
+   "allotmentDate": "2026-11-04",
+   "listingDate": "2026-11-06",
+   "priceMin": null,
+   "priceMax": 120.0,
+   "lotSize": 1200,
+   "issueSizeCr": 34.56,
+   "subscriptionTotal": 248.58,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 8.8,
+   "gmp": {
+    "price": 27.0,
+    "percent": 22.5,
+    "updatedAt": "6-Nov 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 27.0
+    }
+   ]
+  },
+  {
+   "id": "johnsoncab-electricals-ipo",
+   "name": "Johnsoncab Electricals",
+   "symbol": "JOHNSONCAB",
+   "type": "SME",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/johnsoncab-electricals-ipo/2371/",
+   "openDate": "2026-10-30",
+   "closeDate": "2026-11-03",
+   "allotmentDate": "2026-11-04",
+   "listingDate": "2026-11-06",
+   "priceMin": null,
+   "priceMax": 200.0,
+   "lotSize": 600,
+   "issueSizeCr": 56.02,
+   "subscriptionTotal": 23.82,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 11.58,
+   "gmp": {
+    "price": 8.0,
+    "percent": 4.0,
+    "updatedAt": "6-Nov 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 8.0
+    }
+   ]
+  },
+  {
+   "id": "maxwell-engineering-solutions-ipo",
+   "name": "Maxwell Engineering Solutions",
+   "symbol": "MAXWELL",
+   "type": "SME",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/maxwell-engineering-solutions-ipo/1965/",
+   "openDate": "2026-10-30",
+   "closeDate": "2026-11-03",
+   "allotmentDate": "2026-11-04",
+   "listingDate": "2026-11-06",
+   "priceMin": null,
+   "priceMax": 158.0,
+   "lotSize": 800,
+   "issueSizeCr": 57.64,
+   "subscriptionTotal": 536.8,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 13.39,
+   "gmp": {
+    "price": 105.0,
+    "percent": 66.46,
+    "updatedAt": "6-Nov 9:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 105.0
+    }
+   ]
+  },
+  {
+   "id": "vectras-enprocon-ipo",
+   "name": "Vectras Enprocon",
+   "symbol": "VECTRAS",
+   "type": "SME",
+   "status": "LISTED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/vectras-enprocon-ipo/1998/",
+   "openDate": "2026-10-30",
+   "closeDate": "2026-11-03",
+   "allotmentDate": "2026-11-04",
+   "listingDate": "2026-11-06",
+   "priceMin": null,
+   "priceMax": 105.0,
+   "lotSize": 1200,
+   "issueSizeCr": 53.05,
+   "subscriptionTotal": 4.2,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 10.2,
+   "gmp": {
+    "price": 0.0,
+    "percent": 0.0,
+    "updatedAt": "6-Nov 9:31"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 0.0
+    }
+   ]
+  },
+  {
+   "id": "vedant-poly-fabs-ipo",
+   "name": "Vedant Poly Fabs",
+   "symbol": "VEDANT",
+   "type": "SME",
+   "status": "CLOSED",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/vedant-poly-fabs-ipo/2297/",
+   "openDate": "2026-11-02",
+   "closeDate": "2026-11-04",
+   "allotmentDate": "2026-11-05",
+   "listingDate": "2026-11-09",
+   "priceMin": null,
+   "priceMax": 94.0,
+   "lotSize": 1200,
+   "issueSizeCr": 56.68,
+   "subscriptionTotal": 1.9,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 12.62,
+   "gmp": {
+    "price": 1.0,
+    "percent": 1.06,
+    "updatedAt": "7-Nov 18:02"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-07",
+     "gmp": 1.0
+    }
+   ]
+  }
+ ]
+}
