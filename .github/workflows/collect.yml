@@ -31,11 +31,11 @@ jobs:
         run: python3 collect.py ipos.json
       - name: Commit if changed
         run: |
-          if git diff --quiet -- ipos.json && git ls-files --error-unmatch ipos.json >/dev/null 2>&1; then
+          if git diff --quiet -- ipos.json listed.json about.json && git ls-files --error-unmatch ipos.json >/dev/null 2>&1; then
             echo "No changes"; exit 0
           fi
           git config user.name "ipo-lens-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add ipos.json listed.json about.json
           git commit -m "Update IPO data $(date -u +%Y-%m-%dT%H:%MZ)"
-          git push
+          git pull --rebase origin main && git push
