@@ -30,7 +30,7 @@ APIFY_API = "https://api.apify.com/v2/acts/data_daemon~india-ipo-tracker/run-syn
 SCHEMA_VERSION = 1
 KEEP_LISTED_DAYS = 365
 PERF_DAILY_ROWS = 15
-ABOUT_LOOKUPS_PER_RUN = 80
+ABOUT_LOOKUPS_PER_RUN = 150
 ABOUT_RETRY_DAYS = 60
 UA = "IPOLensDataBot/1.0 (https://github.com/paragpawar456-cloud/ipo-lens-data)"
 MAX_HISTORY_DAYS = 30
@@ -279,7 +279,11 @@ def wikipedia_profile(name):
                            "srlimit": 5, "format": "json"})["query"]["search"]
     for hit in hits:
         title = hit["title"]
-        if set(key) - set(words(title)) or "(disambiguation)" in title:
+        tw = words(title)
+        # Either the article title holds the whole name ("Tata Capital" for "Tata Capital"), or the name
+        # adds generic words to the title ("Lenskart" for "Lenskart Solutions"), starting the same way.
+        same_start = bool(tw) and tw[0] == key[0]
+        if "(disambiguation)" in title or not same_start or not (set(key) <= set(tw) or set(tw) <= set(key)):
             continue
         pages = get_json(WIKI, {"action": "query", "prop": "extracts|pageprops", "exintro": 1, "explaintext": 1,
                                 "exsentences": 5, "redirects": 1, "titles": title, "format": "json"})["query"]["pages"]
