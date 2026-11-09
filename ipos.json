@@ -2,7 +2,7 @@
  "version": 1,
  "source": "InvestorGain via Apify",
  "sourceUrl": "https://www.investorgain.com",
- "updatedAt": "2026-11-09T01:26:04+05:30",
+ "updatedAt": "2026-11-10T05:21:07+05:30",
  "ipos": [
   {
    "id": "antala-industries-ipo",
@@ -28,7 +28,7 @@
    "gmp": {
     "price": 0.0,
     "percent": 0.0,
-    "updatedAt": "8-Nov 23:32"
+    "updatedAt": "9-Nov 23:33"
    },
    "gmpHistory": [
     {
@@ -42,6 +42,10 @@
     {
      "date": "2026-11-09",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-10",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -52,7 +56,7 @@
    "name": "Vedant Poly Fabs",
    "symbol": "VEDANT",
    "type": "SME",
-   "status": "CLOSED",
+   "status": "LISTED",
    "datesTba": false,
    "logo": null,
    "webUrl": "https://www.investorgain.com/gmp/vedant-poly-fabs-ipo/2297/",
@@ -65,13 +69,13 @@
    "lotSize": 1200,
    "issueSizeCr": 56.68,
    "subscriptionTotal": 1.9,
-   "listingPrice": null,
-   "currentPrice": null,
+   "listingPrice": 94.0,
+   "currentPrice": 89.3,
    "pe": 12.62,
    "gmp": {
     "price": 1.0,
     "percent": 1.06,
-    "updatedAt": "8-Nov 23:37"
+    "updatedAt": "9-Nov 9:37"
    },
    "gmpHistory": [
     {
@@ -84,6 +88,10 @@
     },
     {
      "date": "2026-11-09",
+     "gmp": 1.0
+    },
+    {
+     "date": "2026-11-10",
      "gmp": 1.0
     }
    ],
@@ -109,7 +117,7 @@
    "issueSizeCr": 53.05,
    "subscriptionTotal": 4.2,
    "listingPrice": 106.0,
-   "currentPrice": 107.5,
+   "currentPrice": 106.1,
    "pe": 10.2,
    "gmp": {
     "price": 0.0,
@@ -127,6 +135,10 @@
     },
     {
      "date": "2026-11-09",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-10",
      "gmp": 0.0
     }
    ],
@@ -152,7 +164,7 @@
    "issueSizeCr": 57.64,
    "subscriptionTotal": 536.8,
    "listingPrice": 300.2,
-   "currentPrice": 315.2,
+   "currentPrice": 314.45,
    "pe": 13.39,
    "gmp": {
     "price": 105.0,
@@ -170,6 +182,10 @@
     },
     {
      "date": "2026-11-09",
+     "gmp": 105.0
+    },
+    {
+     "date": "2026-11-10",
      "gmp": 105.0
     }
    ],
@@ -195,7 +211,7 @@
    "issueSizeCr": 56.02,
    "subscriptionTotal": 23.82,
    "listingPrice": 238.5,
-   "currentPrice": 237.7,
+   "currentPrice": 220.0,
    "pe": 11.58,
    "gmp": {
     "price": 8.0,
@@ -213,6 +229,10 @@
     },
     {
      "date": "2026-11-09",
+     "gmp": 8.0
+    },
+    {
+     "date": "2026-11-10",
      "gmp": 8.0
     }
    ],
@@ -238,7 +258,7 @@
    "issueSizeCr": 34.56,
    "subscriptionTotal": 248.58,
    "listingPrice": 160.0,
-   "currentPrice": 168.0,
+   "currentPrice": 185.2,
    "pe": 8.8,
    "gmp": {
     "price": 27.0,
@@ -256,6 +276,10 @@
     },
     {
      "date": "2026-11-09",
+     "gmp": 27.0
+    },
+    {
+     "date": "2026-11-10",
      "gmp": 27.0
     }
    ],
@@ -281,7 +305,7 @@
    "issueSizeCr": 183.06,
    "subscriptionTotal": 63.89,
    "listingPrice": 91.0,
-   "currentPrice": 90.07,
+   "currentPrice": 81.3,
    "pe": 10.88,
    "gmp": {
     "price": 8.0,
@@ -299,6 +323,10 @@
     },
     {
      "date": "2026-11-09",
+     "gmp": 8.0
+    },
+    {
+     "date": "2026-11-10",
      "gmp": 8.0
     }
    ],
@@ -343,6 +371,10 @@
     {
      "date": "2026-11-09",
      "gmp": 11.0
+    },
+    {
+     "date": "2026-11-10",
+     "gmp": 11.0
     }
    ],
    "about": null,
@@ -385,6 +417,10 @@
     },
     {
      "date": "2026-11-09",
+     "gmp": 4.0
+    },
+    {
+     "date": "2026-11-10",
      "gmp": 4.0
     }
    ],
@@ -429,6 +465,10 @@
     {
      "date": "2026-11-09",
      "gmp": 1.0
+    },
+    {
+     "date": "2026-11-10",
+     "gmp": 1.0
     }
    ],
    "about": null,
@@ -471,6 +511,10 @@
     },
     {
      "date": "2026-11-09",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-10",
      "gmp": 0.0
     }
    ],
@@ -515,6 +559,10 @@
     {
      "date": "2026-11-09",
      "gmp": 15.5
+    },
+    {
+     "date": "2026-11-10",
+     "gmp": 15.5
     }
    ],
    "about": null,
@@ -557,6 +605,10 @@
     },
     {
      "date": "2026-11-09",
+     "gmp": 69.0
+    },
+    {
+     "date": "2026-11-10",
      "gmp": 69.0
     }
    ],
@@ -601,6 +653,10 @@
     {
      "date": "2026-11-09",
      "gmp": 54.0
+    },
+    {
+     "date": "2026-11-10",
+     "gmp": 54.0
     }
    ],
    "about": null,
@@ -643,6 +699,10 @@
     },
     {
      "date": "2026-11-09",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-10",
      "gmp": 0.0
     }
    ],
@@ -687,6 +747,10 @@
     {
      "date": "2026-11-09",
      "gmp": 13.0
+    },
+    {
+     "date": "2026-11-10",
+     "gmp": 13.0
     }
    ],
    "about": null,
@@ -729,6 +793,10 @@
     },
     {
      "date": "2026-11-09",
+     "gmp": 250.0
+    },
+    {
+     "date": "2026-11-10",
      "gmp": 250.0
     }
    ],
@@ -790,6 +858,10 @@
     {
      "date": "2026-11-09",
      "gmp": 1.2
+    },
+    {
+     "date": "2026-11-10",
+     "gmp": 1.2
     }
    ],
    "about": null,
@@ -832,6 +904,10 @@
     },
     {
      "date": "2026-11-09",
+     "gmp": 452.0
+    },
+    {
+     "date": "2026-11-10",
      "gmp": 452.0
     }
    ],
@@ -876,6 +952,10 @@
     {
      "date": "2026-11-09",
      "gmp": 7.0
+    },
+    {
+     "date": "2026-11-10",
+     "gmp": 7.0
     }
    ],
    "about": null,
@@ -918,6 +998,10 @@
     },
     {
      "date": "2026-11-09",
+     "gmp": 17.0
+    },
+    {
+     "date": "2026-11-10",
      "gmp": 17.0
     }
    ],
@@ -962,6 +1046,10 @@
     {
      "date": "2026-11-09",
      "gmp": 66.0
+    },
+    {
+     "date": "2026-11-10",
+     "gmp": 66.0
     }
    ],
    "about": null,
@@ -1005,6 +1093,10 @@
     {
      "date": "2026-11-09",
      "gmp": 1.0
+    },
+    {
+     "date": "2026-11-10",
+     "gmp": 1.0
     }
    ],
    "about": null,
@@ -1047,6 +1139,10 @@
     },
     {
      "date": "2026-11-09",
+     "gmp": 13.5
+    },
+    {
+     "date": "2026-11-10",
      "gmp": 13.5
     }
    ],
@@ -1125,6 +1221,10 @@
     },
     {
      "date": "2026-11-09",
+     "gmp": 70.0
+    },
+    {
+     "date": "2026-11-10",
      "gmp": 70.0
     }
    ],
