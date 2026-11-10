@@ -2684,21 +2684,6 @@
   "subscriptionX": 2.7,
   "symbol": "544797"
  },
- "lenskart-solutions-ipo": {
-  "category": "Mainboard",
-  "gmp": 10,
-  "gmpPercent": 2.49,
-  "ipoName": "Lenskart Solutions",
-  "issuePrice": 402,
-  "issueSizeCr": 7278.02,
-  "lastTradedPrice": 724.75,
-  "listingDate": "2025-11-10",
-  "listingDayClosePrice": 403.3,
-  "listingGainPercent": -1.74,
-  "listingPrice": 395,
-  "subscriptionX": 28.26,
-  "symbol": "LENSKART, 544600"
- },
  "liotech-industries-ipo": {
   "category": "SME",
   "gmp": 0,

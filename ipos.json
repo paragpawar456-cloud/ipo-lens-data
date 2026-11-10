@@ -2,7 +2,7 @@
  "version": 1,
  "source": "InvestorGain via Apify",
  "sourceUrl": "https://www.investorgain.com",
- "updatedAt": "2026-11-10T05:21:07+05:30",
+ "updatedAt": "2026-11-11T02:54:35+05:30",
  "ipos": [
   {
    "id": "antala-industries-ipo",
@@ -28,7 +28,7 @@
    "gmp": {
     "price": 0.0,
     "percent": 0.0,
-    "updatedAt": "9-Nov 23:33"
+    "updatedAt": "10-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -45,6 +45,10 @@
     },
     {
      "date": "2026-11-10",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-11",
      "gmp": 0.0
     }
    ],
@@ -93,6 +97,10 @@
     {
      "date": "2026-11-10",
      "gmp": 1.0
+    },
+    {
+     "date": "2026-11-11",
+     "gmp": 1.0
     }
    ],
    "about": null,
@@ -139,6 +147,10 @@
     },
     {
      "date": "2026-11-10",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-11",
      "gmp": 0.0
     }
    ],
@@ -187,6 +199,10 @@
     {
      "date": "2026-11-10",
      "gmp": 105.0
+    },
+    {
+     "date": "2026-11-11",
+     "gmp": 105.0
     }
    ],
    "about": null,
@@ -233,6 +249,10 @@
     },
     {
      "date": "2026-11-10",
+     "gmp": 8.0
+    },
+    {
+     "date": "2026-11-11",
      "gmp": 8.0
     }
    ],
@@ -281,6 +301,10 @@
     {
      "date": "2026-11-10",
      "gmp": 27.0
+    },
+    {
+     "date": "2026-11-11",
+     "gmp": 27.0
     }
    ],
    "about": null,
@@ -327,6 +351,10 @@
     },
     {
      "date": "2026-11-10",
+     "gmp": 8.0
+    },
+    {
+     "date": "2026-11-11",
      "gmp": 8.0
     }
    ],
@@ -375,6 +403,10 @@
     {
      "date": "2026-11-10",
      "gmp": 11.0
+    },
+    {
+     "date": "2026-11-11",
+     "gmp": 11.0
     }
    ],
    "about": null,
@@ -421,6 +453,10 @@
     },
     {
      "date": "2026-11-10",
+     "gmp": 4.0
+    },
+    {
+     "date": "2026-11-11",
      "gmp": 4.0
     }
    ],
@@ -469,6 +505,10 @@
     {
      "date": "2026-11-10",
      "gmp": 1.0
+    },
+    {
+     "date": "2026-11-11",
+     "gmp": 1.0
     }
    ],
    "about": null,
@@ -515,6 +555,10 @@
     },
     {
      "date": "2026-11-10",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-11",
      "gmp": 0.0
     }
    ],
@@ -563,6 +607,10 @@
     {
      "date": "2026-11-10",
      "gmp": 15.5
+    },
+    {
+     "date": "2026-11-11",
+     "gmp": 15.5
     }
    ],
    "about": null,
@@ -609,6 +657,10 @@
     },
     {
      "date": "2026-11-10",
+     "gmp": 69.0
+    },
+    {
+     "date": "2026-11-11",
      "gmp": 69.0
     }
    ],
@@ -657,6 +709,10 @@
     {
      "date": "2026-11-10",
      "gmp": 54.0
+    },
+    {
+     "date": "2026-11-11",
+     "gmp": 54.0
     }
    ],
    "about": null,
@@ -703,6 +759,10 @@
     },
     {
      "date": "2026-11-10",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-11",
      "gmp": 0.0
     }
    ],
@@ -751,6 +811,10 @@
     {
      "date": "2026-11-10",
      "gmp": 13.0
+    },
+    {
+     "date": "2026-11-11",
+     "gmp": 13.0
     }
    ],
    "about": null,
@@ -797,6 +861,10 @@
     },
     {
      "date": "2026-11-10",
+     "gmp": 250.0
+    },
+    {
+     "date": "2026-11-11",
      "gmp": 250.0
     }
    ],
@@ -862,6 +930,10 @@
     {
      "date": "2026-11-10",
      "gmp": 1.2
+    },
+    {
+     "date": "2026-11-11",
+     "gmp": 1.2
     }
    ],
    "about": null,
@@ -908,6 +980,10 @@
     },
     {
      "date": "2026-11-10",
+     "gmp": 452.0
+    },
+    {
+     "date": "2026-11-11",
      "gmp": 452.0
     }
    ],
@@ -956,6 +1032,10 @@
     {
      "date": "2026-11-10",
      "gmp": 7.0
+    },
+    {
+     "date": "2026-11-11",
+     "gmp": 7.0
     }
    ],
    "about": null,
@@ -1002,6 +1082,10 @@
     },
     {
      "date": "2026-11-10",
+     "gmp": 17.0
+    },
+    {
+     "date": "2026-11-11",
      "gmp": 17.0
     }
    ],
@@ -1050,6 +1134,10 @@
     {
      "date": "2026-11-10",
      "gmp": 66.0
+    },
+    {
+     "date": "2026-11-11",
+     "gmp": 66.0
     }
    ],
    "about": null,
@@ -1097,6 +1185,10 @@
     {
      "date": "2026-11-10",
      "gmp": 1.0
+    },
+    {
+     "date": "2026-11-11",
+     "gmp": 1.0
     }
    ],
    "about": null,
@@ -1143,6 +1235,10 @@
     },
     {
      "date": "2026-11-10",
+     "gmp": 13.5
+    },
+    {
+     "date": "2026-11-11",
      "gmp": 13.5
     }
    ],
@@ -1225,6 +1321,10 @@
     },
     {
      "date": "2026-11-10",
+     "gmp": 70.0
+    },
+    {
+     "date": "2026-11-11",
      "gmp": 70.0
     }
    ],
@@ -13491,52 +13591,6 @@
    ],
    "about": null,
    "detailsUrl": "https://www.google.com/search?q=Groww+IPO+company+profile"
-  },
-  {
-   "id": "lenskart-solutions-ipo",
-   "name": "Lenskart Solutions",
-   "symbol": "LENSKART",
-   "type": "MAINBOARD",
-   "status": "LISTED",
-   "datesTba": false,
-   "logo": null,
-   "webUrl": null,
-   "openDate": null,
-   "closeDate": null,
-   "allotmentDate": null,
-   "listingDate": "2025-11-10",
-   "priceMin": null,
-   "priceMax": 402.0,
-   "lotSize": null,
-   "issueSizeCr": 7278.02,
-   "subscriptionTotal": 28.26,
-   "listingPrice": 395.0,
-   "currentPrice": 724.75,
-   "pe": null,
-   "gmp": {
-    "price": 10.0,
-    "percent": 2.49,
-    "updatedAt": null
-   },
-   "gmpHistory": [
-    {
-     "date": "2025-11-09",
-     "gmp": 10.0
-    }
-   ],
-   "about": {
-    "founded": 2008,
-    "headquarters": "New Delhi",
-    "industries": [],
-    "products": [
-     "eyewear",
-     "sunglasses"
-    ],
-    "source": "Wikipedia",
-    "summary": "Lenskart Solutions Limited is an Indian multinational eyewear company, based in Gurgaon. As a vertically integrated company, it designs, manufactures, distributes, and retails prescription and regular eyewear. It sells its products through its website, a mobile app, and 2,000+ physical stores.\nLenskart has a manufacturing facility located in  Bhiwadi, Rajasthan, with an annual production capacity of 50 million units.",
-    "url": "https://en.wikipedia.org/wiki/Lenskart"
-   },
-   "detailsUrl": "https://www.google.com/search?q=Lenskart+Solutions+IPO+company+profile"
   }
  ]
 }
