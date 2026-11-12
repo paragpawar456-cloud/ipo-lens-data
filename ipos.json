@@ -2,8 +2,43 @@
  "version": 1,
  "source": "InvestorGain via Apify",
  "sourceUrl": "https://www.investorgain.com",
- "updatedAt": "2026-11-12T03:44:37+05:30",
+ "updatedAt": "2026-11-13T03:24:30+05:30",
  "ipos": [
+  {
+   "id": "crystal-crop-protection-ipo",
+   "name": "Crystal Crop Protection",
+   "symbol": "CRYSTAL",
+   "type": "MAINBOARD",
+   "status": "UPCOMING",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/",
+   "openDate": null,
+   "closeDate": null,
+   "allotmentDate": null,
+   "listingDate": null,
+   "priceMin": null,
+   "priceMax": null,
+   "lotSize": null,
+   "issueSizeCr": null,
+   "subscriptionTotal": null,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": null,
+   "gmp": {
+    "price": 0.0,
+    "percent": null,
+    "updatedAt": "12-Nov 10:00"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-13",
+     "gmp": 0.0
+    }
+   ],
+   "about": null,
+   "detailsUrl": "https://www.investorgain.com/ipo/crystal-crop-protection-ipo/2067/"
+  },
   {
    "id": "antala-industries-ipo",
    "name": "Antala Industries",
@@ -23,7 +58,7 @@
    "issueSizeCr": 22.98,
    "subscriptionTotal": 12.79,
    "listingPrice": 52.8,
-   "currentPrice": 50.16,
+   "currentPrice": 47.66,
    "pe": 13.52,
    "gmp": {
     "price": 0.0,
@@ -54,6 +89,10 @@
     {
      "date": "2026-11-12",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -78,7 +117,7 @@
    "issueSizeCr": 56.68,
    "subscriptionTotal": 1.9,
    "listingPrice": 94.0,
-   "currentPrice": 84.85,
+   "currentPrice": 80.65,
    "pe": 12.62,
    "gmp": {
     "price": 1.0,
@@ -108,6 +147,10 @@
     },
     {
      "date": "2026-11-12",
+     "gmp": 1.0
+    },
+    {
+     "date": "2026-11-13",
      "gmp": 1.0
     }
    ],
@@ -164,6 +207,10 @@
     {
      "date": "2026-11-12",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -188,7 +235,7 @@
    "issueSizeCr": 57.64,
    "subscriptionTotal": 536.8,
    "listingPrice": 300.2,
-   "currentPrice": 304.35,
+   "currentPrice": 289.15,
    "pe": 13.39,
    "gmp": {
     "price": 105.0,
@@ -219,6 +266,10 @@
     {
      "date": "2026-11-12",
      "gmp": 105.0
+    },
+    {
+     "date": "2026-11-13",
+     "gmp": 105.0
     }
    ],
    "about": null,
@@ -243,7 +294,7 @@
    "issueSizeCr": 56.02,
    "subscriptionTotal": 23.82,
    "listingPrice": 238.5,
-   "currentPrice": 229.5,
+   "currentPrice": 240.95,
    "pe": 11.58,
    "gmp": {
     "price": 8.0,
@@ -274,6 +325,10 @@
     {
      "date": "2026-11-12",
      "gmp": 8.0
+    },
+    {
+     "date": "2026-11-13",
+     "gmp": 8.0
     }
    ],
    "about": null,
@@ -298,7 +353,7 @@
    "issueSizeCr": 34.56,
    "subscriptionTotal": 248.58,
    "listingPrice": 160.0,
-   "currentPrice": 194.45,
+   "currentPrice": 204.15,
    "pe": 8.8,
    "gmp": {
     "price": 27.0,
@@ -328,6 +383,10 @@
     },
     {
      "date": "2026-11-12",
+     "gmp": 27.0
+    },
+    {
+     "date": "2026-11-13",
      "gmp": 27.0
     }
    ],
@@ -384,6 +443,10 @@
     {
      "date": "2026-11-12",
      "gmp": 8.0
+    },
+    {
+     "date": "2026-11-13",
+     "gmp": 8.0
     }
    ],
    "about": null,
@@ -438,6 +501,10 @@
     },
     {
      "date": "2026-11-12",
+     "gmp": 11.0
+    },
+    {
+     "date": "2026-11-13",
      "gmp": 11.0
     }
    ],
@@ -494,6 +561,10 @@
     {
      "date": "2026-11-12",
      "gmp": 4.0
+    },
+    {
+     "date": "2026-11-13",
+     "gmp": 4.0
     }
    ],
    "about": null,
@@ -548,6 +619,10 @@
     },
     {
      "date": "2026-11-12",
+     "gmp": 1.0
+    },
+    {
+     "date": "2026-11-13",
      "gmp": 1.0
     }
    ],
@@ -604,6 +679,10 @@
     {
      "date": "2026-11-12",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -658,6 +737,10 @@
     },
     {
      "date": "2026-11-12",
+     "gmp": 15.5
+    },
+    {
+     "date": "2026-11-13",
      "gmp": 15.5
     }
    ],
@@ -714,6 +797,10 @@
     {
      "date": "2026-11-12",
      "gmp": 69.0
+    },
+    {
+     "date": "2026-11-13",
+     "gmp": 69.0
     }
    ],
    "about": null,
@@ -768,6 +855,10 @@
     },
     {
      "date": "2026-11-12",
+     "gmp": 54.0
+    },
+    {
+     "date": "2026-11-13",
      "gmp": 54.0
     }
    ],
@@ -824,6 +915,10 @@
     {
      "date": "2026-11-12",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-13",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -879,6 +974,10 @@
     {
      "date": "2026-11-12",
      "gmp": 13.0
+    },
+    {
+     "date": "2026-11-13",
+     "gmp": 13.0
     }
    ],
    "about": null,
@@ -933,6 +1032,10 @@
     },
     {
      "date": "2026-11-12",
+     "gmp": 250.0
+    },
+    {
+     "date": "2026-11-13",
      "gmp": 250.0
     }
    ],
@@ -1006,6 +1109,10 @@
     {
      "date": "2026-11-12",
      "gmp": 1.2
+    },
+    {
+     "date": "2026-11-13",
+     "gmp": 1.2
     }
    ],
    "about": null,
@@ -1060,6 +1167,10 @@
     },
     {
      "date": "2026-11-12",
+     "gmp": 452.0
+    },
+    {
+     "date": "2026-11-13",
      "gmp": 452.0
     }
    ],
@@ -1116,6 +1227,10 @@
     {
      "date": "2026-11-12",
      "gmp": 7.0
+    },
+    {
+     "date": "2026-11-13",
+     "gmp": 7.0
     }
    ],
    "about": null,
@@ -1170,6 +1285,10 @@
     },
     {
      "date": "2026-11-12",
+     "gmp": 17.0
+    },
+    {
+     "date": "2026-11-13",
      "gmp": 17.0
     }
    ],
@@ -1226,6 +1345,10 @@
     {
      "date": "2026-11-12",
      "gmp": 66.0
+    },
+    {
+     "date": "2026-11-13",
+     "gmp": 66.0
     }
    ],
    "about": null,
@@ -1281,6 +1404,10 @@
     {
      "date": "2026-11-12",
      "gmp": 1.0
+    },
+    {
+     "date": "2026-11-13",
+     "gmp": 1.0
     }
    ],
    "about": null,
@@ -1335,6 +1462,10 @@
     },
     {
      "date": "2026-11-12",
+     "gmp": 13.5
+    },
+    {
+     "date": "2026-11-13",
      "gmp": 13.5
     }
    ],
@@ -13621,76 +13752,6 @@
    ],
    "about": null,
    "detailsUrl": "https://www.google.com/search?q=Finbud+Financial+IPO+company+profile"
-  },
-  {
-   "id": "shreeji-global-fmcg-ipo",
-   "name": "Shreeji Global FMCG",
-   "symbol": "SHREEJI",
-   "type": "SME",
-   "status": "LISTED",
-   "datesTba": false,
-   "logo": null,
-   "webUrl": null,
-   "openDate": null,
-   "closeDate": null,
-   "allotmentDate": null,
-   "listingDate": "2025-11-12",
-   "priceMin": null,
-   "priceMax": 125.0,
-   "lotSize": null,
-   "issueSizeCr": 85.0,
-   "subscriptionTotal": 3.27,
-   "listingPrice": 100.0,
-   "currentPrice": 216.35,
-   "pe": null,
-   "gmp": {
-    "price": 0.0,
-    "percent": 0.0,
-    "updatedAt": null
-   },
-   "gmpHistory": [
-    {
-     "date": "2025-11-11",
-     "gmp": 0.0
-    }
-   ],
-   "about": null,
-   "detailsUrl": "https://www.google.com/search?q=Shreeji+Global+FMCG+IPO+company+profile"
-  },
-  {
-   "id": "groww-ipo",
-   "name": "Groww",
-   "symbol": "GROWW",
-   "type": "MAINBOARD",
-   "status": "LISTED",
-   "datesTba": false,
-   "logo": null,
-   "webUrl": null,
-   "openDate": null,
-   "closeDate": null,
-   "allotmentDate": null,
-   "listingDate": "2025-11-12",
-   "priceMin": null,
-   "priceMax": 100.0,
-   "lotSize": null,
-   "issueSizeCr": 6632.3,
-   "subscriptionTotal": 17.6,
-   "listingPrice": 112.0,
-   "currentPrice": 215.08,
-   "pe": null,
-   "gmp": {
-    "price": 5.0,
-    "percent": 5.0,
-    "updatedAt": null
-   },
-   "gmpHistory": [
-    {
-     "date": "2025-11-11",
-     "gmp": 5.0
-    }
-   ],
-   "about": null,
-   "detailsUrl": "https://www.google.com/search?q=Groww+IPO+company+profile"
   }
  ]
 }
