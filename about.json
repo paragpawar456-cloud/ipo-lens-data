@@ -815,6 +815,17 @@
   "checked": "2026-11-08",
   "none": true
  },
+ "mahanadi-coalfields-ipo": {
+  "founded": 1992,
+  "headquarters": "Sambalpur",
+  "industries": [
+   "mining of coal"
+  ],
+  "products": [],
+  "source": "Wikipedia",
+  "summary": "Mahanadi Coalfields Limited (MCL) is a major coal-producing company in India and one of the eight subsidiaries of the state-owned Coal India Limited. It was carved out of South Eastern Coalfields Limited in 1992, with its headquarters located in Sambalpur.\nMCL operates coal mines across Odisha, with a total of seven open-cast mines and three underground mines in Jharsuguda district and Angul district.\nMCL has two subsidiaries with private companies as a joint venture. The name of these companies are MJSJ Coal Limited & MNH Shakti Ltd.",
+  "url": "https://en.wikipedia.org/wiki/Mahanadi_Coalfields"
+ },
  "maharaja-speedex-ipo": {
   "checked": "2026-11-07",
   "none": true

@@ -2,7 +2,7 @@
  "version": 1,
  "source": "InvestorGain via Apify",
  "sourceUrl": "https://www.investorgain.com",
- "updatedAt": "2026-11-14T03:06:00+05:30",
+ "updatedAt": "2026-11-15T01:33:41+05:30",
  "ipos": [
   {
    "id": "watrana-rentals-ipo",
@@ -26,18 +26,67 @@
    "currentPrice": null,
    "pe": 9.61,
    "gmp": {
-    "price": 16.0,
-    "percent": 6.53,
-    "updatedAt": "13-Nov 23:37"
+    "price": 22.0,
+    "percent": 8.98,
+    "updatedAt": "14-Nov 23:37"
    },
    "gmpHistory": [
     {
      "date": "2026-11-14",
      "gmp": 16.0
+    },
+    {
+     "date": "2026-11-15",
+     "gmp": 22.0
     }
    ],
    "about": null,
    "detailsUrl": "https://www.investorgain.com/ipo/watrana-rentals-ipo/1818/"
+  },
+  {
+   "id": "mahanadi-coalfields-ipo",
+   "name": "Mahanadi Coalfields",
+   "symbol": "MAHANADI",
+   "type": "MAINBOARD",
+   "status": "UPCOMING",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/mahanadi-coalfields-ipo/2401/",
+   "openDate": "2026-11-19",
+   "closeDate": "2026-11-23",
+   "allotmentDate": "2026-11-25",
+   "listingDate": "2026-11-27",
+   "priceMin": null,
+   "priceMax": null,
+   "lotSize": null,
+   "issueSizeCr": null,
+   "subscriptionTotal": null,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": null,
+   "gmp": {
+    "price": 9.25,
+    "percent": 0.0,
+    "updatedAt": "14-Nov 23:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-15",
+     "gmp": 9.25
+    }
+   ],
+   "about": {
+    "summary": "Mahanadi Coalfields Limited (MCL) is a major coal-producing company in India and one of the eight subsidiaries of the state-owned Coal India Limited. It was carved out of South Eastern Coalfields Limited in 1992, with its headquarters located in Sambalpur.\nMCL operates coal mines across Odisha, with a total of seven open-cast mines and three underground mines in Jharsuguda district and Angul district.\nMCL has two subsidiaries with private companies as a joint venture. The name of these companies are MJSJ Coal Limited & MNH Shakti Ltd.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mahanadi_Coalfields",
+    "founded": 1992,
+    "headquarters": "Sambalpur",
+    "industries": [
+     "mining of coal"
+    ],
+    "products": []
+   },
+   "detailsUrl": "https://www.investorgain.com/ipo/mahanadi-coalfields-ipo/2401/"
   },
   {
    "id": "crystal-crop-protection-ipo",
@@ -61,9 +110,9 @@
    "currentPrice": null,
    "pe": 28.19,
    "gmp": {
-    "price": 40.0,
-    "percent": 14.71,
-    "updatedAt": "13-Nov 23:37"
+    "price": 27.0,
+    "percent": 9.93,
+    "updatedAt": "14-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -73,6 +122,10 @@
     {
      "date": "2026-11-14",
      "gmp": 40.0
+    },
+    {
+     "date": "2026-11-15",
+     "gmp": 27.0
     }
    ],
    "about": null,
@@ -135,6 +188,10 @@
     },
     {
      "date": "2026-11-14",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-15",
      "gmp": 0.0
     }
    ],
@@ -199,6 +256,10 @@
     {
      "date": "2026-11-14",
      "gmp": 1.0
+    },
+    {
+     "date": "2026-11-15",
+     "gmp": 1.0
     }
    ],
    "about": null,
@@ -261,6 +322,10 @@
     },
     {
      "date": "2026-11-14",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-15",
      "gmp": 0.0
     }
    ],
@@ -325,6 +390,10 @@
     {
      "date": "2026-11-14",
      "gmp": 105.0
+    },
+    {
+     "date": "2026-11-15",
+     "gmp": 105.0
     }
    ],
    "about": null,
@@ -387,6 +456,10 @@
     },
     {
      "date": "2026-11-14",
+     "gmp": 8.0
+    },
+    {
+     "date": "2026-11-15",
      "gmp": 8.0
     }
    ],
@@ -451,6 +524,10 @@
     {
      "date": "2026-11-14",
      "gmp": 27.0
+    },
+    {
+     "date": "2026-11-15",
+     "gmp": 27.0
     }
    ],
    "about": null,
@@ -513,6 +590,10 @@
     },
     {
      "date": "2026-11-14",
+     "gmp": 8.0
+    },
+    {
+     "date": "2026-11-15",
      "gmp": 8.0
     }
    ],
@@ -577,6 +658,10 @@
     {
      "date": "2026-11-14",
      "gmp": 11.0
+    },
+    {
+     "date": "2026-11-15",
+     "gmp": 11.0
     }
    ],
    "about": null,
@@ -639,6 +724,10 @@
     },
     {
      "date": "2026-11-14",
+     "gmp": 4.0
+    },
+    {
+     "date": "2026-11-15",
      "gmp": 4.0
     }
    ],
@@ -703,6 +792,10 @@
     {
      "date": "2026-11-14",
      "gmp": 1.0
+    },
+    {
+     "date": "2026-11-15",
+     "gmp": 1.0
     }
    ],
    "about": null,
@@ -765,6 +858,10 @@
     },
     {
      "date": "2026-11-14",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-15",
      "gmp": 0.0
     }
    ],
@@ -829,6 +926,10 @@
     {
      "date": "2026-11-14",
      "gmp": 15.5
+    },
+    {
+     "date": "2026-11-15",
+     "gmp": 15.5
     }
    ],
    "about": null,
@@ -891,6 +992,10 @@
     },
     {
      "date": "2026-11-14",
+     "gmp": 69.0
+    },
+    {
+     "date": "2026-11-15",
      "gmp": 69.0
     }
    ],
@@ -955,6 +1060,10 @@
     {
      "date": "2026-11-14",
      "gmp": 54.0
+    },
+    {
+     "date": "2026-11-15",
+     "gmp": 54.0
     }
    ],
    "about": null,
@@ -1017,6 +1126,10 @@
     },
     {
      "date": "2026-11-14",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-15",
      "gmp": 0.0
     }
    ],
@@ -1081,6 +1194,10 @@
     {
      "date": "2026-11-14",
      "gmp": 13.0
+    },
+    {
+     "date": "2026-11-15",
+     "gmp": 13.0
     }
    ],
    "about": null,
@@ -1143,6 +1260,10 @@
     },
     {
      "date": "2026-11-14",
+     "gmp": 250.0
+    },
+    {
+     "date": "2026-11-15",
      "gmp": 250.0
     }
    ],
@@ -1224,6 +1345,10 @@
     {
      "date": "2026-11-14",
      "gmp": 1.2
+    },
+    {
+     "date": "2026-11-15",
+     "gmp": 1.2
     }
    ],
    "about": null,
@@ -1286,6 +1411,10 @@
     },
     {
      "date": "2026-11-14",
+     "gmp": 452.0
+    },
+    {
+     "date": "2026-11-15",
      "gmp": 452.0
     }
    ],
@@ -1350,6 +1479,10 @@
     {
      "date": "2026-11-14",
      "gmp": 7.0
+    },
+    {
+     "date": "2026-11-15",
+     "gmp": 7.0
     }
    ],
    "about": null,
@@ -1413,6 +1546,10 @@
     {
      "date": "2026-11-14",
      "gmp": 17.0
+    },
+    {
+     "date": "2026-11-15",
+     "gmp": 17.0
     }
    ],
    "about": null,
@@ -1475,6 +1612,10 @@
     },
     {
      "date": "2026-11-14",
+     "gmp": 66.0
+    },
+    {
+     "date": "2026-11-15",
      "gmp": 66.0
     }
    ],
@@ -13735,119 +13876,6 @@
    ],
    "about": null,
    "detailsUrl": "https://www.google.com/search?q=Emmvee+Photovoltaic+IPO+company+profile"
-  },
-  {
-   "id": "shining-tools-ipo",
-   "name": "Shining Tools",
-   "symbol": "SHINING",
-   "type": "SME",
-   "status": "LISTED",
-   "datesTba": false,
-   "logo": null,
-   "webUrl": null,
-   "openDate": null,
-   "closeDate": null,
-   "allotmentDate": null,
-   "listingDate": "2025-11-14",
-   "priceMin": null,
-   "priceMax": 114.0,
-   "lotSize": null,
-   "issueSizeCr": 17.1,
-   "subscriptionTotal": 1.15,
-   "listingPrice": 104.0,
-   "currentPrice": 223.45,
-   "pe": null,
-   "gmp": {
-    "price": 0.0,
-    "percent": 0.0,
-    "updatedAt": null
-   },
-   "gmpHistory": [
-    {
-     "date": "2025-11-13",
-     "gmp": 0.0
-    }
-   ],
-   "about": null,
-   "detailsUrl": "https://www.google.com/search?q=Shining+Tools+IPO+company+profile"
-  },
-  {
-   "id": "pine-labs-ipo",
-   "name": "Pine Labs",
-   "symbol": "PINE",
-   "type": "MAINBOARD",
-   "status": "LISTED",
-   "datesTba": false,
-   "logo": null,
-   "webUrl": null,
-   "openDate": null,
-   "closeDate": null,
-   "allotmentDate": null,
-   "listingDate": "2025-11-14",
-   "priceMin": null,
-   "priceMax": 221.0,
-   "lotSize": null,
-   "issueSizeCr": 3900.17,
-   "subscriptionTotal": 2.48,
-   "listingPrice": 242.0,
-   "currentPrice": 162.45,
-   "pe": null,
-   "gmp": {
-    "price": 5.5,
-    "percent": 2.49,
-    "updatedAt": null
-   },
-   "gmpHistory": [
-    {
-     "date": "2025-11-13",
-     "gmp": 5.5
-    }
-   ],
-   "about": {
-    "industries": [
-     "fintech"
-    ],
-    "products": [],
-    "source": "Wikipedia",
-    "summary": "Pine Labs is an Indian multinational Financial  Technology company headquartered in Noida, Uttar Pradesh, that provides point of sale (POS) systems and payment systems. Founded in 1998, it facilitates digital payments through Android-based POS machines that are primarily used by retailers in India, UAE, and Malaysia.",
-    "url": "https://en.wikipedia.org/wiki/Pine_Labs"
-   },
-   "detailsUrl": "https://www.google.com/search?q=Pine+Labs+IPO+company+profile"
-  },
-  {
-   "id": "curis-lifesciences-ipo",
-   "name": "Curis Lifesciences",
-   "symbol": "CURIS",
-   "type": "SME",
-   "status": "LISTED",
-   "datesTba": false,
-   "logo": null,
-   "webUrl": null,
-   "openDate": null,
-   "closeDate": null,
-   "allotmentDate": null,
-   "listingDate": "2025-11-14",
-   "priceMin": null,
-   "priceMax": 128.0,
-   "lotSize": null,
-   "issueSizeCr": 27.52,
-   "subscriptionTotal": 74.39,
-   "listingPrice": 146.1,
-   "currentPrice": 177.1,
-   "pe": null,
-   "gmp": {
-    "price": 9.0,
-    "percent": 7.03,
-    "updatedAt": null
-   },
-   "gmpHistory": [
-    {
-     "date": "2025-11-13",
-     "gmp": 9.0
-    }
-   ],
-   "about": null,
-   "detailsUrl": "https://www.google.com/search?q=Curis+Lifesciences+IPO+company+profile"
   }
  ]
 }

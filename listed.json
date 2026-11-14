@@ -1139,21 +1139,6 @@
   "subscriptionX": 1.37,
   "symbol": "CSM, 544806"
  },
- "curis-lifesciences-ipo": {
-  "category": "SME",
-  "gmp": 9,
-  "gmpPercent": 7.03,
-  "ipoName": "Curis Lifesciences",
-  "issuePrice": 128,
-  "issueSizeCr": 27.52,
-  "lastTradedPrice": 177.1,
-  "listingDate": "2025-11-14",
-  "listingDayClosePrice": 141,
-  "listingGainPercent": 14.14,
-  "listingPrice": 146.1,
-  "subscriptionX": 74.39,
-  "symbol": "CURIS"
- },
  "dachepalli-publishers-ipo": {
   "category": "SME",
   "gmp": 0,
@@ -3599,21 +3584,6 @@
   "subscriptionX": 2.71,
   "symbol": "544966"
  },
- "pine-labs-ipo": {
-  "category": "Mainboard",
-  "gmp": 5.5,
-  "gmpPercent": 2.49,
-  "ipoName": "Pine Labs",
-  "issuePrice": 221,
-  "issueSizeCr": 3900.17,
-  "lastTradedPrice": 162.45,
-  "listingDate": "2025-11-14",
-  "listingDayClosePrice": 251.3,
-  "listingGainPercent": 9.5,
-  "listingPrice": 242,
-  "subscriptionX": 2.48,
-  "symbol": "PINELABS, 544606"
- },
  "pngs-reva-ipo": {
   "category": "Mainboard",
   "gmp": -20,
@@ -4378,21 +4348,6 @@
   "listingPrice": 179,
   "subscriptionX": 58.54,
   "symbol": "544998"
- },
- "shining-tools-ipo": {
-  "category": "SME",
-  "gmp": 0,
-  "gmpPercent": 0,
-  "ipoName": "Shining Tools",
-  "issuePrice": 114,
-  "issueSizeCr": 17.1,
-  "lastTradedPrice": 223.45,
-  "listingDate": "2025-11-14",
-  "listingDayClosePrice": 98.8,
-  "listingGainPercent": -8.77,
-  "listingPrice": 104,
-  "subscriptionX": 1.15,
-  "symbol": "544607"
  },
  "shiprocket-ipo": {
   "category": "Mainboard",
