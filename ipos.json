@@ -2,7 +2,7 @@
  "version": 1,
  "source": "InvestorGain via Apify",
  "sourceUrl": "https://www.investorgain.com",
- "updatedAt": "2026-11-15T01:33:41+05:30",
+ "updatedAt": "2026-11-16T02:02:21+05:30",
  "ipos": [
   {
    "id": "watrana-rentals-ipo",
@@ -28,7 +28,7 @@
    "gmp": {
     "price": 22.0,
     "percent": 8.98,
-    "updatedAt": "14-Nov 23:37"
+    "updatedAt": "15-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -37,6 +37,10 @@
     },
     {
      "date": "2026-11-15",
+     "gmp": 22.0
+    },
+    {
+     "date": "2026-11-16",
      "gmp": 22.0
     }
    ],
@@ -65,26 +69,30 @@
    "currentPrice": null,
    "pe": null,
    "gmp": {
-    "price": 9.25,
+    "price": 7.0,
     "percent": 0.0,
-    "updatedAt": "14-Nov 23:37"
+    "updatedAt": "15-Nov 23:37"
    },
    "gmpHistory": [
     {
      "date": "2026-11-15",
      "gmp": 9.25
+    },
+    {
+     "date": "2026-11-16",
+     "gmp": 7.0
     }
    ],
    "about": {
-    "summary": "Mahanadi Coalfields Limited (MCL) is a major coal-producing company in India and one of the eight subsidiaries of the state-owned Coal India Limited. It was carved out of South Eastern Coalfields Limited in 1992, with its headquarters located in Sambalpur.\nMCL operates coal mines across Odisha, with a total of seven open-cast mines and three underground mines in Jharsuguda district and Angul district.\nMCL has two subsidiaries with private companies as a joint venture. The name of these companies are MJSJ Coal Limited & MNH Shakti Ltd.",
-    "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Mahanadi_Coalfields",
     "founded": 1992,
     "headquarters": "Sambalpur",
     "industries": [
      "mining of coal"
     ],
-    "products": []
+    "products": [],
+    "source": "Wikipedia",
+    "summary": "Mahanadi Coalfields Limited (MCL) is a major coal-producing company in India and one of the eight subsidiaries of the state-owned Coal India Limited. It was carved out of South Eastern Coalfields Limited in 1992, with its headquarters located in Sambalpur.\nMCL operates coal mines across Odisha, with a total of seven open-cast mines and three underground mines in Jharsuguda district and Angul district.\nMCL has two subsidiaries with private companies as a joint venture. The name of these companies are MJSJ Coal Limited & MNH Shakti Ltd.",
+    "url": "https://en.wikipedia.org/wiki/Mahanadi_Coalfields"
    },
    "detailsUrl": "https://www.investorgain.com/ipo/mahanadi-coalfields-ipo/2401/"
   },
@@ -110,9 +118,9 @@
    "currentPrice": null,
    "pe": 28.19,
    "gmp": {
-    "price": 27.0,
-    "percent": 9.93,
-    "updatedAt": "14-Nov 23:37"
+    "price": 15.0,
+    "percent": 5.51,
+    "updatedAt": "15-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -126,6 +134,10 @@
     {
      "date": "2026-11-15",
      "gmp": 27.0
+    },
+    {
+     "date": "2026-11-16",
+     "gmp": 15.0
     }
    ],
    "about": null,
@@ -192,6 +204,10 @@
     },
     {
      "date": "2026-11-15",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-16",
      "gmp": 0.0
     }
    ],
@@ -260,6 +276,10 @@
     {
      "date": "2026-11-15",
      "gmp": 1.0
+    },
+    {
+     "date": "2026-11-16",
+     "gmp": 1.0
     }
    ],
    "about": null,
@@ -326,6 +346,10 @@
     },
     {
      "date": "2026-11-15",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-16",
      "gmp": 0.0
     }
    ],
@@ -394,6 +418,10 @@
     {
      "date": "2026-11-15",
      "gmp": 105.0
+    },
+    {
+     "date": "2026-11-16",
+     "gmp": 105.0
     }
    ],
    "about": null,
@@ -460,6 +488,10 @@
     },
     {
      "date": "2026-11-15",
+     "gmp": 8.0
+    },
+    {
+     "date": "2026-11-16",
      "gmp": 8.0
     }
    ],
@@ -528,6 +560,10 @@
     {
      "date": "2026-11-15",
      "gmp": 27.0
+    },
+    {
+     "date": "2026-11-16",
+     "gmp": 27.0
     }
    ],
    "about": null,
@@ -594,6 +630,10 @@
     },
     {
      "date": "2026-11-15",
+     "gmp": 8.0
+    },
+    {
+     "date": "2026-11-16",
      "gmp": 8.0
     }
    ],
@@ -662,6 +702,10 @@
     {
      "date": "2026-11-15",
      "gmp": 11.0
+    },
+    {
+     "date": "2026-11-16",
+     "gmp": 11.0
     }
    ],
    "about": null,
@@ -728,6 +772,10 @@
     },
     {
      "date": "2026-11-15",
+     "gmp": 4.0
+    },
+    {
+     "date": "2026-11-16",
      "gmp": 4.0
     }
    ],
@@ -796,6 +844,10 @@
     {
      "date": "2026-11-15",
      "gmp": 1.0
+    },
+    {
+     "date": "2026-11-16",
+     "gmp": 1.0
     }
    ],
    "about": null,
@@ -862,6 +914,10 @@
     },
     {
      "date": "2026-11-15",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-16",
      "gmp": 0.0
     }
    ],
@@ -930,6 +986,10 @@
     {
      "date": "2026-11-15",
      "gmp": 15.5
+    },
+    {
+     "date": "2026-11-16",
+     "gmp": 15.5
     }
    ],
    "about": null,
@@ -996,6 +1056,10 @@
     },
     {
      "date": "2026-11-15",
+     "gmp": 69.0
+    },
+    {
+     "date": "2026-11-16",
      "gmp": 69.0
     }
    ],
@@ -1064,6 +1128,10 @@
     {
      "date": "2026-11-15",
      "gmp": 54.0
+    },
+    {
+     "date": "2026-11-16",
+     "gmp": 54.0
     }
    ],
    "about": null,
@@ -1130,6 +1198,10 @@
     },
     {
      "date": "2026-11-15",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-16",
      "gmp": 0.0
     }
    ],
@@ -1198,6 +1270,10 @@
     {
      "date": "2026-11-15",
      "gmp": 13.0
+    },
+    {
+     "date": "2026-11-16",
+     "gmp": 13.0
     }
    ],
    "about": null,
@@ -1264,6 +1340,10 @@
     },
     {
      "date": "2026-11-15",
+     "gmp": 250.0
+    },
+    {
+     "date": "2026-11-16",
      "gmp": 250.0
     }
    ],
@@ -1349,6 +1429,10 @@
     {
      "date": "2026-11-15",
      "gmp": 1.2
+    },
+    {
+     "date": "2026-11-16",
+     "gmp": 1.2
     }
    ],
    "about": null,
@@ -1415,6 +1499,10 @@
     },
     {
      "date": "2026-11-15",
+     "gmp": 452.0
+    },
+    {
+     "date": "2026-11-16",
      "gmp": 452.0
     }
    ],
@@ -1483,6 +1571,10 @@
     {
      "date": "2026-11-15",
      "gmp": 7.0
+    },
+    {
+     "date": "2026-11-16",
+     "gmp": 7.0
     }
    ],
    "about": null,
@@ -1550,6 +1642,10 @@
     {
      "date": "2026-11-15",
      "gmp": 17.0
+    },
+    {
+     "date": "2026-11-16",
+     "gmp": 17.0
     }
    ],
    "about": null,
@@ -1616,6 +1712,10 @@
     },
     {
      "date": "2026-11-15",
+     "gmp": 66.0
+    },
+    {
+     "date": "2026-11-16",
      "gmp": 66.0
     }
    ],
