@@ -2,7 +2,7 @@
  "version": 1,
  "source": "InvestorGain via Apify",
  "sourceUrl": "https://www.investorgain.com",
- "updatedAt": "2026-11-16T02:02:21+05:30",
+ "updatedAt": "2026-11-17T05:20:05+05:30",
  "ipos": [
   {
    "id": "watrana-rentals-ipo",
@@ -26,9 +26,9 @@
    "currentPrice": null,
    "pe": 9.61,
    "gmp": {
-    "price": 22.0,
-    "percent": 8.98,
-    "updatedAt": "15-Nov 23:37"
+    "price": 25.0,
+    "percent": 10.2,
+    "updatedAt": "16-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -42,6 +42,10 @@
     {
      "date": "2026-11-16",
      "gmp": 22.0
+    },
+    {
+     "date": "2026-11-17",
+     "gmp": 25.0
     }
    ],
    "about": null,
@@ -61,17 +65,17 @@
    "allotmentDate": "2026-11-25",
    "listingDate": "2026-11-27",
    "priceMin": null,
-   "priceMax": null,
-   "lotSize": null,
-   "issueSizeCr": null,
+   "priceMax": 136.0,
+   "lotSize": 110,
+   "issueSizeCr": 8981.12,
    "subscriptionTotal": null,
    "listingPrice": null,
    "currentPrice": null,
-   "pe": null,
+   "pe": 8.42,
    "gmp": {
-    "price": 7.0,
-    "percent": 0.0,
-    "updatedAt": "15-Nov 23:37"
+    "price": 3.5,
+    "percent": 2.57,
+    "updatedAt": "16-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -81,6 +85,10 @@
     {
      "date": "2026-11-16",
      "gmp": 7.0
+    },
+    {
+     "date": "2026-11-17",
+     "gmp": 3.5
     }
    ],
    "about": {
@@ -118,9 +126,9 @@
    "currentPrice": null,
    "pe": 28.19,
    "gmp": {
-    "price": 15.0,
-    "percent": 5.51,
-    "updatedAt": "15-Nov 23:37"
+    "price": 13.0,
+    "percent": 4.78,
+    "updatedAt": "16-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -138,6 +146,10 @@
     {
      "date": "2026-11-16",
      "gmp": 15.0
+    },
+    {
+     "date": "2026-11-17",
+     "gmp": 13.0
     }
    ],
    "about": null,
@@ -162,7 +174,7 @@
    "issueSizeCr": 22.98,
    "subscriptionTotal": 12.79,
    "listingPrice": 52.8,
-   "currentPrice": 45.28,
+   "currentPrice": 43.02,
    "pe": 13.52,
    "gmp": {
     "price": 0.0,
@@ -209,6 +221,10 @@
     {
      "date": "2026-11-16",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-17",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -233,7 +249,7 @@
    "issueSizeCr": 56.68,
    "subscriptionTotal": 1.9,
    "listingPrice": 94.0,
-   "currentPrice": 76.65,
+   "currentPrice": 72.85,
    "pe": 12.62,
    "gmp": {
     "price": 1.0,
@@ -280,6 +296,10 @@
     {
      "date": "2026-11-16",
      "gmp": 1.0
+    },
+    {
+     "date": "2026-11-17",
+     "gmp": 1.0
     }
    ],
    "about": null,
@@ -304,7 +324,7 @@
    "issueSizeCr": 53.05,
    "subscriptionTotal": 4.2,
    "listingPrice": 106.0,
-   "currentPrice": 106.7,
+   "currentPrice": 107.5,
    "pe": 10.2,
    "gmp": {
     "price": 0.0,
@@ -351,6 +371,10 @@
     {
      "date": "2026-11-16",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-17",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -375,7 +399,7 @@
    "issueSizeCr": 57.64,
    "subscriptionTotal": 536.8,
    "listingPrice": 300.2,
-   "currentPrice": 274.7,
+   "currentPrice": 282.2,
    "pe": 13.39,
    "gmp": {
     "price": 105.0,
@@ -422,6 +446,10 @@
     {
      "date": "2026-11-16",
      "gmp": 105.0
+    },
+    {
+     "date": "2026-11-17",
+     "gmp": 105.0
     }
    ],
    "about": null,
@@ -446,7 +474,7 @@
    "issueSizeCr": 56.02,
    "subscriptionTotal": 23.82,
    "listingPrice": 238.5,
-   "currentPrice": 252.95,
+   "currentPrice": 265.55,
    "pe": 11.58,
    "gmp": {
     "price": 8.0,
@@ -493,6 +521,10 @@
     {
      "date": "2026-11-16",
      "gmp": 8.0
+    },
+    {
+     "date": "2026-11-17",
+     "gmp": 8.0
     }
    ],
    "about": null,
@@ -517,7 +549,7 @@
    "issueSizeCr": 34.56,
    "subscriptionTotal": 248.58,
    "listingPrice": 160.0,
-   "currentPrice": 214.35,
+   "currentPrice": 225.05,
    "pe": 8.8,
    "gmp": {
     "price": 27.0,
@@ -563,6 +595,10 @@
     },
     {
      "date": "2026-11-16",
+     "gmp": 27.0
+    },
+    {
+     "date": "2026-11-17",
      "gmp": 27.0
     }
    ],
@@ -635,6 +671,10 @@
     {
      "date": "2026-11-16",
      "gmp": 8.0
+    },
+    {
+     "date": "2026-11-17",
+     "gmp": 8.0
     }
    ],
    "about": null,
@@ -705,6 +745,10 @@
     },
     {
      "date": "2026-11-16",
+     "gmp": 11.0
+    },
+    {
+     "date": "2026-11-17",
      "gmp": 11.0
     }
    ],
@@ -777,6 +821,10 @@
     {
      "date": "2026-11-16",
      "gmp": 4.0
+    },
+    {
+     "date": "2026-11-17",
+     "gmp": 4.0
     }
    ],
    "about": null,
@@ -847,6 +895,10 @@
     },
     {
      "date": "2026-11-16",
+     "gmp": 1.0
+    },
+    {
+     "date": "2026-11-17",
      "gmp": 1.0
     }
    ],
@@ -919,6 +971,10 @@
     {
      "date": "2026-11-16",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-17",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -989,6 +1045,10 @@
     },
     {
      "date": "2026-11-16",
+     "gmp": 15.5
+    },
+    {
+     "date": "2026-11-17",
      "gmp": 15.5
     }
    ],
@@ -1061,6 +1121,10 @@
     {
      "date": "2026-11-16",
      "gmp": 69.0
+    },
+    {
+     "date": "2026-11-17",
+     "gmp": 69.0
     }
    ],
    "about": null,
@@ -1131,6 +1195,10 @@
     },
     {
      "date": "2026-11-16",
+     "gmp": 54.0
+    },
+    {
+     "date": "2026-11-17",
      "gmp": 54.0
     }
    ],
@@ -1203,6 +1271,10 @@
     {
      "date": "2026-11-16",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-17",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -1274,6 +1346,10 @@
     {
      "date": "2026-11-16",
      "gmp": 13.0
+    },
+    {
+     "date": "2026-11-17",
+     "gmp": 13.0
     }
    ],
    "about": null,
@@ -1344,6 +1420,10 @@
     },
     {
      "date": "2026-11-16",
+     "gmp": 250.0
+    },
+    {
+     "date": "2026-11-17",
      "gmp": 250.0
     }
    ],
@@ -1433,6 +1513,10 @@
     {
      "date": "2026-11-16",
      "gmp": 1.2
+    },
+    {
+     "date": "2026-11-17",
+     "gmp": 1.2
     }
    ],
    "about": null,
@@ -1503,6 +1587,10 @@
     },
     {
      "date": "2026-11-16",
+     "gmp": 452.0
+    },
+    {
+     "date": "2026-11-17",
      "gmp": 452.0
     }
    ],
@@ -1575,6 +1663,10 @@
     {
      "date": "2026-11-16",
      "gmp": 7.0
+    },
+    {
+     "date": "2026-11-17",
+     "gmp": 7.0
     }
    ],
    "about": null,
@@ -1646,6 +1738,10 @@
     {
      "date": "2026-11-16",
      "gmp": 17.0
+    },
+    {
+     "date": "2026-11-17",
+     "gmp": 17.0
     }
    ],
    "about": null,
@@ -1716,6 +1812,10 @@
     },
     {
      "date": "2026-11-16",
+     "gmp": 66.0
+    },
+    {
+     "date": "2026-11-17",
      "gmp": 66.0
     }
    ],
