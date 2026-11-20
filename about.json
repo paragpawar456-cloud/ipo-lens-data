@@ -644,6 +644,10 @@
   "checked": "2026-11-07",
   "none": true
  },
+ "integris-medtech-ipo": {
+  "checked": "2026-11-21",
+  "none": true
+ },
  "invicta-diagnostic-ipo": {
   "checked": "2026-11-08",
   "none": true
@@ -923,6 +927,10 @@
  },
  "moneyview-ipo": {
   "checked": "2026-11-07",
+  "none": true
+ },
+ "monomark-engineering-ipo": {
+  "checked": "2026-11-21",
   "none": true
  },
  "mopshop-distribution-ipo": {
