@@ -884,21 +884,6 @@
   "subscriptionX": 154.66,
   "symbol": "CMLL, 544833"
  },
- "capillary-technologies-ipo": {
-  "category": "Mainboard",
-  "gmp": 55,
-  "gmpPercent": 9.53,
-  "ipoName": "Capillary Technologies",
-  "issuePrice": 577,
-  "issueSizeCr": 877.5,
-  "lastTradedPrice": 507.8,
-  "listingDate": "2025-11-21",
-  "listingDayClosePrice": 606.9,
-  "listingGainPercent": -0.88,
-  "listingPrice": 571.9,
-  "subscriptionX": 52.95,
-  "symbol": "CAPILLARY, 544614"
- },
  "carver-roboweld-ipo": {
   "category": "SME",
   "gmp": 4,

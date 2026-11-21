@@ -2,7 +2,7 @@
  "version": 1,
  "source": "InvestorGain via Apify",
  "sourceUrl": "https://www.investorgain.com",
- "updatedAt": "2026-11-21T03:50:29+05:30",
+ "updatedAt": "2026-11-22T02:35:54+05:30",
  "ipos": [
   {
    "id": "monomark-engineering-ipo",
@@ -27,12 +27,16 @@
    "pe": null,
    "gmp": {
     "price": 0.0,
-    "percent": null,
-    "updatedAt": "20-Nov 12:10"
+    "percent": 0.0,
+    "updatedAt": "21-Nov 5:55"
    },
    "gmpHistory": [
     {
      "date": "2026-11-21",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-22",
      "gmp": 0.0
     }
    ],
@@ -62,12 +66,16 @@
    "pe": null,
    "gmp": {
     "price": 0.0,
-    "percent": null,
-    "updatedAt": "20-Nov 14:10"
+    "percent": 0.0,
+    "updatedAt": "21-Nov 5:55"
    },
    "gmpHistory": [
     {
      "date": "2026-11-21",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-22",
      "gmp": 0.0
     }
    ],
@@ -98,7 +106,7 @@
    "gmp": {
     "price": 12.0,
     "percent": 0.0,
-    "updatedAt": "20-Nov 23:37"
+    "updatedAt": "21-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -107,6 +115,10 @@
     },
     {
      "date": "2026-11-21",
+     "gmp": 12.0
+    },
+    {
+     "date": "2026-11-22",
      "gmp": 12.0
     }
    ],
@@ -137,7 +149,7 @@
    "gmp": {
     "price": 0.0,
     "percent": 0.0,
-    "updatedAt": "20-Nov 23:29"
+    "updatedAt": "21-Nov 23:30"
    },
    "gmpHistory": [
     {
@@ -146,6 +158,10 @@
     },
     {
      "date": "2026-11-21",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-22",
      "gmp": 0.0
     }
    ],
@@ -174,9 +190,9 @@
    "currentPrice": null,
    "pe": 9.61,
    "gmp": {
-    "price": 67.0,
-    "percent": 27.35,
-    "updatedAt": "20-Nov 23:37"
+    "price": 65.0,
+    "percent": 26.53,
+    "updatedAt": "21-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -210,6 +226,10 @@
     {
      "date": "2026-11-21",
      "gmp": 67.0
+    },
+    {
+     "date": "2026-11-22",
+     "gmp": 65.0
     }
    ],
    "about": null,
@@ -237,9 +257,9 @@
    "currentPrice": null,
    "pe": 8.42,
    "gmp": {
-    "price": 0.75,
-    "percent": 0.55,
-    "updatedAt": "20-Nov 23:37"
+    "price": 0.7,
+    "percent": 0.51,
+    "updatedAt": "21-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -269,6 +289,10 @@
     {
      "date": "2026-11-21",
      "gmp": 0.75
+    },
+    {
+     "date": "2026-11-22",
+     "gmp": 0.7
     }
    ],
    "about": {
@@ -308,7 +332,7 @@
    "gmp": {
     "price": 14.5,
     "percent": 5.33,
-    "updatedAt": "20-Nov 23:37"
+    "updatedAt": "21-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -345,6 +369,10 @@
     },
     {
      "date": "2026-11-21",
+     "gmp": 14.5
+    },
+    {
+     "date": "2026-11-22",
      "gmp": 14.5
     }
    ],
@@ -437,6 +465,10 @@
     {
      "date": "2026-11-21",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-22",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -527,6 +559,10 @@
     },
     {
      "date": "2026-11-21",
+     "gmp": 1.0
+    },
+    {
+     "date": "2026-11-22",
      "gmp": 1.0
     }
    ],
@@ -619,6 +655,10 @@
     {
      "date": "2026-11-21",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-22",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -709,6 +749,10 @@
     },
     {
      "date": "2026-11-21",
+     "gmp": 105.0
+    },
+    {
+     "date": "2026-11-22",
      "gmp": 105.0
     }
    ],
@@ -801,6 +845,10 @@
     {
      "date": "2026-11-21",
      "gmp": 8.0
+    },
+    {
+     "date": "2026-11-22",
+     "gmp": 8.0
     }
    ],
    "about": null,
@@ -891,6 +939,10 @@
     },
     {
      "date": "2026-11-21",
+     "gmp": 27.0
+    },
+    {
+     "date": "2026-11-22",
      "gmp": 27.0
     }
    ],
@@ -983,6 +1035,10 @@
     {
      "date": "2026-11-21",
      "gmp": 8.0
+    },
+    {
+     "date": "2026-11-22",
+     "gmp": 8.0
     }
    ],
    "about": null,
@@ -1073,6 +1129,10 @@
     },
     {
      "date": "2026-11-21",
+     "gmp": 11.0
+    },
+    {
+     "date": "2026-11-22",
      "gmp": 11.0
     }
    ],
@@ -1165,6 +1225,10 @@
     {
      "date": "2026-11-21",
      "gmp": 4.0
+    },
+    {
+     "date": "2026-11-22",
+     "gmp": 4.0
     }
    ],
    "about": null,
@@ -1255,6 +1319,10 @@
     },
     {
      "date": "2026-11-21",
+     "gmp": 1.0
+    },
+    {
+     "date": "2026-11-22",
      "gmp": 1.0
     }
    ],
@@ -1347,6 +1415,10 @@
     {
      "date": "2026-11-21",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-22",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -1437,6 +1509,10 @@
     },
     {
      "date": "2026-11-21",
+     "gmp": 15.5
+    },
+    {
+     "date": "2026-11-22",
      "gmp": 15.5
     }
    ],
@@ -1529,6 +1605,10 @@
     {
      "date": "2026-11-21",
      "gmp": 69.0
+    },
+    {
+     "date": "2026-11-22",
+     "gmp": 69.0
     }
    ],
    "about": null,
@@ -1619,6 +1699,10 @@
     },
     {
      "date": "2026-11-21",
+     "gmp": 54.0
+    },
+    {
+     "date": "2026-11-22",
      "gmp": 54.0
     }
    ],
@@ -1711,6 +1795,10 @@
     {
      "date": "2026-11-21",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-22",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -1802,6 +1890,10 @@
     {
      "date": "2026-11-21",
      "gmp": 13.0
+    },
+    {
+     "date": "2026-11-22",
+     "gmp": 13.0
     }
    ],
    "about": null,
@@ -1892,6 +1984,10 @@
     },
     {
      "date": "2026-11-21",
+     "gmp": 250.0
+    },
+    {
+     "date": "2026-11-22",
      "gmp": 250.0
     }
    ],
@@ -2340,6 +2436,10 @@
     },
     {
      "date": "2026-11-21",
+     "gmp": 66.0
+    },
+    {
+     "date": "2026-11-22",
      "gmp": 66.0
     }
    ],
@@ -14355,41 +14455,6 @@
    ],
    "about": null,
    "detailsUrl": "https://www.google.com/search?q=Excelsoft+Technologies+IPO+company+profile"
-  },
-  {
-   "id": "capillary-technologies-ipo",
-   "name": "Capillary Technologies",
-   "symbol": "CAPILLARY",
-   "type": "MAINBOARD",
-   "status": "LISTED",
-   "datesTba": false,
-   "logo": null,
-   "webUrl": null,
-   "openDate": null,
-   "closeDate": null,
-   "allotmentDate": null,
-   "listingDate": "2025-11-21",
-   "priceMin": null,
-   "priceMax": 577.0,
-   "lotSize": null,
-   "issueSizeCr": 877.5,
-   "subscriptionTotal": 52.95,
-   "listingPrice": 571.9,
-   "currentPrice": 507.8,
-   "pe": null,
-   "gmp": {
-    "price": 55.0,
-    "percent": 9.53,
-    "updatedAt": null
-   },
-   "gmpHistory": [
-    {
-     "date": "2025-11-20",
-     "gmp": 55.0
-    }
-   ],
-   "about": null,
-   "detailsUrl": "https://www.google.com/search?q=Capillary+Technologies+IPO+company+profile"
   }
  ]
 }
