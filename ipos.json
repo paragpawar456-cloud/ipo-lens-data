@@ -2,7 +2,7 @@
  "version": 1,
  "source": "InvestorGain via Apify",
  "sourceUrl": "https://www.investorgain.com",
- "updatedAt": "2026-11-22T02:35:54+05:30",
+ "updatedAt": "2026-11-23T02:44:52+05:30",
  "ipos": [
   {
    "id": "monomark-engineering-ipo",
@@ -13,10 +13,10 @@
    "datesTba": false,
    "logo": null,
    "webUrl": "https://www.investorgain.com/gmp/monomark-engineering-ipo/2232/",
-   "openDate": null,
-   "closeDate": null,
-   "allotmentDate": null,
-   "listingDate": null,
+   "openDate": "2026-12-02",
+   "closeDate": "2026-12-04",
+   "allotmentDate": "2026-12-07",
+   "listingDate": "2026-12-09",
    "priceMin": null,
    "priceMax": null,
    "lotSize": null,
@@ -26,9 +26,9 @@
    "currentPrice": null,
    "pe": null,
    "gmp": {
-    "price": 0.0,
+    "price": 23.0,
     "percent": 0.0,
-    "updatedAt": "21-Nov 5:55"
+    "updatedAt": "22-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -38,6 +38,10 @@
     {
      "date": "2026-11-22",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-23",
+     "gmp": 23.0
     }
    ],
    "about": null,
@@ -67,7 +71,7 @@
    "gmp": {
     "price": 0.0,
     "percent": 0.0,
-    "updatedAt": "21-Nov 5:55"
+    "updatedAt": "22-Nov 5:55"
    },
    "gmpHistory": [
     {
@@ -76,6 +80,10 @@
     },
     {
      "date": "2026-11-22",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-23",
      "gmp": 0.0
     }
    ],
@@ -106,7 +114,7 @@
    "gmp": {
     "price": 12.0,
     "percent": 0.0,
-    "updatedAt": "21-Nov 23:37"
+    "updatedAt": "22-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -119,6 +127,10 @@
     },
     {
      "date": "2026-11-22",
+     "gmp": 12.0
+    },
+    {
+     "date": "2026-11-23",
      "gmp": 12.0
     }
    ],
@@ -149,7 +161,7 @@
    "gmp": {
     "price": 0.0,
     "percent": 0.0,
-    "updatedAt": "21-Nov 23:30"
+    "updatedAt": "22-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -162,6 +174,10 @@
     },
     {
      "date": "2026-11-22",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-23",
      "gmp": 0.0
     }
    ],
@@ -190,9 +206,9 @@
    "currentPrice": null,
    "pe": 9.61,
    "gmp": {
-    "price": 65.0,
-    "percent": 26.53,
-    "updatedAt": "21-Nov 23:37"
+    "price": 55.0,
+    "percent": 22.45,
+    "updatedAt": "22-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -230,6 +246,10 @@
     {
      "date": "2026-11-22",
      "gmp": 65.0
+    },
+    {
+     "date": "2026-11-23",
+     "gmp": 55.0
     }
    ],
    "about": null,
@@ -259,7 +279,7 @@
    "gmp": {
     "price": 0.7,
     "percent": 0.51,
-    "updatedAt": "21-Nov 23:37"
+    "updatedAt": "22-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -292,6 +312,10 @@
     },
     {
      "date": "2026-11-22",
+     "gmp": 0.7
+    },
+    {
+     "date": "2026-11-23",
      "gmp": 0.7
     }
    ],
@@ -332,7 +356,7 @@
    "gmp": {
     "price": 14.5,
     "percent": 5.33,
-    "updatedAt": "21-Nov 23:37"
+    "updatedAt": "22-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -373,6 +397,10 @@
     },
     {
      "date": "2026-11-22",
+     "gmp": 14.5
+    },
+    {
+     "date": "2026-11-23",
      "gmp": 14.5
     }
    ],
@@ -469,6 +497,10 @@
     {
      "date": "2026-11-22",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-23",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -563,6 +595,10 @@
     },
     {
      "date": "2026-11-22",
+     "gmp": 1.0
+    },
+    {
+     "date": "2026-11-23",
      "gmp": 1.0
     }
    ],
@@ -659,6 +695,10 @@
     {
      "date": "2026-11-22",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-23",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -753,6 +793,10 @@
     },
     {
      "date": "2026-11-22",
+     "gmp": 105.0
+    },
+    {
+     "date": "2026-11-23",
      "gmp": 105.0
     }
    ],
@@ -849,6 +893,10 @@
     {
      "date": "2026-11-22",
      "gmp": 8.0
+    },
+    {
+     "date": "2026-11-23",
+     "gmp": 8.0
     }
    ],
    "about": null,
@@ -943,6 +991,10 @@
     },
     {
      "date": "2026-11-22",
+     "gmp": 27.0
+    },
+    {
+     "date": "2026-11-23",
      "gmp": 27.0
     }
    ],
@@ -1039,6 +1091,10 @@
     {
      "date": "2026-11-22",
      "gmp": 8.0
+    },
+    {
+     "date": "2026-11-23",
+     "gmp": 8.0
     }
    ],
    "about": null,
@@ -1133,6 +1189,10 @@
     },
     {
      "date": "2026-11-22",
+     "gmp": 11.0
+    },
+    {
+     "date": "2026-11-23",
      "gmp": 11.0
     }
    ],
@@ -1229,6 +1289,10 @@
     {
      "date": "2026-11-22",
      "gmp": 4.0
+    },
+    {
+     "date": "2026-11-23",
+     "gmp": 4.0
     }
    ],
    "about": null,
@@ -1323,6 +1387,10 @@
     },
     {
      "date": "2026-11-22",
+     "gmp": 1.0
+    },
+    {
+     "date": "2026-11-23",
      "gmp": 1.0
     }
    ],
@@ -1419,6 +1487,10 @@
     {
      "date": "2026-11-22",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-23",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -1513,6 +1585,10 @@
     },
     {
      "date": "2026-11-22",
+     "gmp": 15.5
+    },
+    {
+     "date": "2026-11-23",
      "gmp": 15.5
     }
    ],
@@ -1609,6 +1685,10 @@
     {
      "date": "2026-11-22",
      "gmp": 69.0
+    },
+    {
+     "date": "2026-11-23",
+     "gmp": 69.0
     }
    ],
    "about": null,
@@ -1703,6 +1783,10 @@
     },
     {
      "date": "2026-11-22",
+     "gmp": 54.0
+    },
+    {
+     "date": "2026-11-23",
      "gmp": 54.0
     }
    ],
@@ -1799,6 +1883,10 @@
     {
      "date": "2026-11-22",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-23",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -1894,6 +1982,10 @@
     {
      "date": "2026-11-22",
      "gmp": 13.0
+    },
+    {
+     "date": "2026-11-23",
+     "gmp": 13.0
     }
    ],
    "about": null,
@@ -1988,6 +2080,10 @@
     },
     {
      "date": "2026-11-22",
+     "gmp": 250.0
+    },
+    {
+     "date": "2026-11-23",
      "gmp": 250.0
     }
    ],
@@ -2440,6 +2536,10 @@
     },
     {
      "date": "2026-11-22",
+     "gmp": 66.0
+    },
+    {
+     "date": "2026-11-23",
      "gmp": 66.0
     }
    ],
