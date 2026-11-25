@@ -2,7 +2,7 @@
  "version": 1,
  "source": "InvestorGain via Apify",
  "sourceUrl": "https://www.investorgain.com",
- "updatedAt": "2026-11-24T08:03:40+05:30",
+ "updatedAt": "2026-11-25T05:35:35+05:30",
  "ipos": [
   {
    "id": "monomark-engineering-ipo",
@@ -28,7 +28,7 @@
    "gmp": {
     "price": 23.0,
     "percent": 0.0,
-    "updatedAt": "24-Nov 7:37"
+    "updatedAt": "24-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -45,6 +45,10 @@
     },
     {
      "date": "2026-11-24",
+     "gmp": 23.0
+    },
+    {
+     "date": "2026-11-25",
      "gmp": 23.0
     }
    ],
@@ -75,11 +79,15 @@
    "gmp": {
     "price": 21.5,
     "percent": 12.5,
-    "updatedAt": "24-Nov 7:37"
+    "updatedAt": "24-Nov 23:37"
    },
    "gmpHistory": [
     {
      "date": "2026-11-24",
+     "gmp": 21.5
+    },
+    {
+     "date": "2026-11-25",
      "gmp": 21.5
     }
    ],
@@ -108,14 +116,18 @@
    "currentPrice": null,
    "pe": 17.65,
    "gmp": {
-    "price": 20.0,
-    "percent": 11.11,
-    "updatedAt": "24-Nov 7:37"
+    "price": 18.0,
+    "percent": 10.0,
+    "updatedAt": "24-Nov 23:37"
    },
    "gmpHistory": [
     {
      "date": "2026-11-24",
      "gmp": 20.0
+    },
+    {
+     "date": "2026-11-25",
+     "gmp": 18.0
     }
    ],
    "about": null,
@@ -163,10 +175,49 @@
     {
      "date": "2026-11-24",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-25",
+     "gmp": 0.0
     }
    ],
    "about": null,
    "detailsUrl": "https://www.investorgain.com/ipo/integris-medtech-ipo/2029/"
+  },
+  {
+   "id": "airpro-technology-ipo",
+   "name": "Airpro Technology",
+   "symbol": "AIRPRO",
+   "type": "SME",
+   "status": "UPCOMING",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/airpro-technology-ipo/2316/",
+   "openDate": "2026-11-27",
+   "closeDate": "2026-12-01",
+   "allotmentDate": "2026-12-02",
+   "listingDate": "2026-12-04",
+   "priceMin": null,
+   "priceMax": 99.0,
+   "lotSize": 1200,
+   "issueSizeCr": 35.64,
+   "subscriptionTotal": null,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 15.59,
+   "gmp": {
+    "price": 0.0,
+    "percent": 0.0,
+    "updatedAt": "24-Nov 23:30"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-25",
+     "gmp": 0.0
+    }
+   ],
+   "about": null,
+   "detailsUrl": "https://www.investorgain.com/ipo/airpro-technology-ipo/2316/"
   },
   {
    "id": "foodlink-fb-ipo",
@@ -190,9 +241,9 @@
    "currentPrice": null,
    "pe": 34.29,
    "gmp": {
-    "price": 15.0,
-    "percent": 7.85,
-    "updatedAt": "24-Nov 7:37"
+    "price": 21.0,
+    "percent": 10.99,
+    "updatedAt": "24-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -214,6 +265,10 @@
     {
      "date": "2026-11-24",
      "gmp": 15.0
+    },
+    {
+     "date": "2026-11-25",
+     "gmp": 21.0
     }
    ],
    "about": null,
@@ -241,9 +296,9 @@
    "currentPrice": null,
    "pe": 15.01,
    "gmp": {
-    "price": 10.0,
-    "percent": 7.04,
-    "updatedAt": "24-Nov 7:37"
+    "price": 20.0,
+    "percent": 14.08,
+    "updatedAt": "24-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -265,6 +320,10 @@
     {
      "date": "2026-11-24",
      "gmp": 10.0
+    },
+    {
+     "date": "2026-11-25",
+     "gmp": 20.0
     }
    ],
    "about": null,
@@ -294,7 +353,7 @@
    "gmp": {
     "price": 40.0,
     "percent": 16.33,
-    "updatedAt": "24-Nov 7:37"
+    "updatedAt": "24-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -340,6 +399,10 @@
     {
      "date": "2026-11-24",
      "gmp": 40.0
+    },
+    {
+     "date": "2026-11-25",
+     "gmp": 40.0
     }
    ],
    "about": null,
@@ -369,7 +432,7 @@
    "gmp": {
     "price": 0.0,
     "percent": 0.0,
-    "updatedAt": "24-Nov 7:37"
+    "updatedAt": "24-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -411,6 +474,10 @@
     {
      "date": "2026-11-24",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-25",
+     "gmp": 0.0
     }
    ],
    "about": {
@@ -448,9 +515,9 @@
    "currentPrice": null,
    "pe": 28.19,
    "gmp": {
-    "price": 14.0,
-    "percent": 5.15,
-    "updatedAt": "24-Nov 7:37"
+    "price": 19.0,
+    "percent": 6.99,
+    "updatedAt": "24-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -500,6 +567,10 @@
     {
      "date": "2026-11-24",
      "gmp": 14.0
+    },
+    {
+     "date": "2026-11-25",
+     "gmp": 19.0
     }
    ],
    "about": null,
@@ -602,6 +673,10 @@
     },
     {
      "date": "2026-11-24",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-25",
      "gmp": 0.0
     }
    ],
@@ -706,6 +781,10 @@
     {
      "date": "2026-11-24",
      "gmp": 1.0
+    },
+    {
+     "date": "2026-11-25",
+     "gmp": 1.0
     }
    ],
    "about": null,
@@ -808,6 +887,10 @@
     },
     {
      "date": "2026-11-24",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-25",
      "gmp": 0.0
     }
    ],
@@ -912,6 +995,10 @@
     {
      "date": "2026-11-24",
      "gmp": 105.0
+    },
+    {
+     "date": "2026-11-25",
+     "gmp": 105.0
     }
    ],
    "about": null,
@@ -1014,6 +1101,10 @@
     },
     {
      "date": "2026-11-24",
+     "gmp": 8.0
+    },
+    {
+     "date": "2026-11-25",
      "gmp": 8.0
     }
    ],
@@ -1118,6 +1209,10 @@
     {
      "date": "2026-11-24",
      "gmp": 27.0
+    },
+    {
+     "date": "2026-11-25",
+     "gmp": 27.0
     }
    ],
    "about": null,
@@ -1220,6 +1315,10 @@
     },
     {
      "date": "2026-11-24",
+     "gmp": 8.0
+    },
+    {
+     "date": "2026-11-25",
      "gmp": 8.0
     }
    ],
@@ -1324,6 +1423,10 @@
     {
      "date": "2026-11-24",
      "gmp": 11.0
+    },
+    {
+     "date": "2026-11-25",
+     "gmp": 11.0
     }
    ],
    "about": null,
@@ -1426,6 +1529,10 @@
     },
     {
      "date": "2026-11-24",
+     "gmp": 4.0
+    },
+    {
+     "date": "2026-11-25",
      "gmp": 4.0
     }
    ],
@@ -1530,6 +1637,10 @@
     {
      "date": "2026-11-24",
      "gmp": 1.0
+    },
+    {
+     "date": "2026-11-25",
+     "gmp": 1.0
     }
    ],
    "about": null,
@@ -1632,6 +1743,10 @@
     },
     {
      "date": "2026-11-24",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-25",
      "gmp": 0.0
     }
    ],
@@ -1736,6 +1851,10 @@
     {
      "date": "2026-11-24",
      "gmp": 15.5
+    },
+    {
+     "date": "2026-11-25",
+     "gmp": 15.5
     }
    ],
    "about": null,
@@ -1838,6 +1957,10 @@
     },
     {
      "date": "2026-11-24",
+     "gmp": 69.0
+    },
+    {
+     "date": "2026-11-25",
      "gmp": 69.0
     }
    ],
@@ -1942,6 +2065,10 @@
     {
      "date": "2026-11-24",
      "gmp": 54.0
+    },
+    {
+     "date": "2026-11-25",
+     "gmp": 54.0
     }
    ],
    "about": null,
@@ -2044,6 +2171,10 @@
     },
     {
      "date": "2026-11-24",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-25",
      "gmp": 0.0
     }
    ],
