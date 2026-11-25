@@ -2,8 +2,63 @@
  "version": 1,
  "source": "InvestorGain via Apify",
  "sourceUrl": "https://www.investorgain.com",
- "updatedAt": "2026-11-25T05:35:35+05:30",
+ "updatedAt": "2026-11-26T05:16:01+05:30",
  "ipos": [
+  {
+   "id": "integris-medtech-ipo",
+   "name": "Integris Medtech",
+   "symbol": "INTEGRIS",
+   "type": "MAINBOARD",
+   "status": "UPCOMING",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/integris-medtech-ipo/2029/",
+   "openDate": null,
+   "closeDate": null,
+   "allotmentDate": null,
+   "listingDate": null,
+   "priceMin": null,
+   "priceMax": null,
+   "lotSize": null,
+   "issueSizeCr": null,
+   "subscriptionTotal": null,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": null,
+   "gmp": {
+    "price": 0.0,
+    "percent": 0.0,
+    "updatedAt": "25-Nov 5:55"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-21",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-22",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-23",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-24",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-25",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 0.0
+    }
+   ],
+   "about": null,
+   "detailsUrl": "https://www.investorgain.com/ipo/integris-medtech-ipo/2029/"
+  },
   {
    "id": "monomark-engineering-ipo",
    "name": "Monomark Engineering",
@@ -18,17 +73,17 @@
    "allotmentDate": "2026-12-07",
    "listingDate": "2026-12-09",
    "priceMin": null,
-   "priceMax": null,
-   "lotSize": null,
-   "issueSizeCr": null,
+   "priceMax": 65.0,
+   "lotSize": 225,
+   "issueSizeCr": 175.5,
    "subscriptionTotal": null,
    "listingPrice": null,
    "currentPrice": null,
-   "pe": null,
+   "pe": 17.33,
    "gmp": {
-    "price": 23.0,
-    "percent": 0.0,
-    "updatedAt": "24-Nov 23:37"
+    "price": 21.0,
+    "percent": 32.31,
+    "updatedAt": "25-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -50,6 +105,10 @@
     {
      "date": "2026-11-25",
      "gmp": 23.0
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 21.0
     }
    ],
    "about": null,
@@ -77,9 +136,9 @@
    "currentPrice": null,
    "pe": 17.6,
    "gmp": {
-    "price": 21.5,
-    "percent": 12.5,
-    "updatedAt": "24-Nov 23:37"
+    "price": 27.0,
+    "percent": 15.7,
+    "updatedAt": "25-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -89,6 +148,10 @@
     {
      "date": "2026-11-25",
      "gmp": 21.5
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 27.0
     }
    ],
    "about": null,
@@ -116,9 +179,9 @@
    "currentPrice": null,
    "pe": 17.65,
    "gmp": {
-    "price": 18.0,
-    "percent": 10.0,
-    "updatedAt": "24-Nov 23:37"
+    "price": 24.0,
+    "percent": 13.33,
+    "updatedAt": "25-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -128,61 +191,14 @@
     {
      "date": "2026-11-25",
      "gmp": 18.0
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 24.0
     }
    ],
    "about": null,
    "detailsUrl": "https://www.investorgain.com/ipo/a-j-packaging-ipo/2247/"
-  },
-  {
-   "id": "integris-medtech-ipo",
-   "name": "Integris Medtech",
-   "symbol": "INTEGRIS",
-   "type": "MAINBOARD",
-   "status": "UPCOMING",
-   "datesTba": false,
-   "logo": null,
-   "webUrl": "https://www.investorgain.com/gmp/integris-medtech-ipo/2029/",
-   "openDate": "2026-11-27",
-   "closeDate": "2026-12-01",
-   "allotmentDate": "2026-12-02",
-   "listingDate": "2026-12-04",
-   "priceMin": null,
-   "priceMax": null,
-   "lotSize": null,
-   "issueSizeCr": null,
-   "subscriptionTotal": null,
-   "listingPrice": null,
-   "currentPrice": null,
-   "pe": null,
-   "gmp": {
-    "price": 0.0,
-    "percent": 0.0,
-    "updatedAt": "24-Nov 5:55"
-   },
-   "gmpHistory": [
-    {
-     "date": "2026-11-21",
-     "gmp": 0.0
-    },
-    {
-     "date": "2026-11-22",
-     "gmp": 0.0
-    },
-    {
-     "date": "2026-11-23",
-     "gmp": 0.0
-    },
-    {
-     "date": "2026-11-24",
-     "gmp": 0.0
-    },
-    {
-     "date": "2026-11-25",
-     "gmp": 0.0
-    }
-   ],
-   "about": null,
-   "detailsUrl": "https://www.investorgain.com/ipo/integris-medtech-ipo/2029/"
   },
   {
    "id": "airpro-technology-ipo",
@@ -206,14 +222,18 @@
    "currentPrice": null,
    "pe": 15.59,
    "gmp": {
-    "price": 0.0,
-    "percent": 0.0,
-    "updatedAt": "24-Nov 23:30"
+    "price": 4.0,
+    "percent": 4.04,
+    "updatedAt": "25-Nov 23:37"
    },
    "gmpHistory": [
     {
      "date": "2026-11-25",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 4.0
     }
    ],
    "about": null,
@@ -241,9 +261,9 @@
    "currentPrice": null,
    "pe": 34.29,
    "gmp": {
-    "price": 21.0,
-    "percent": 10.99,
-    "updatedAt": "24-Nov 23:37"
+    "price": 18.0,
+    "percent": 9.42,
+    "updatedAt": "25-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -269,6 +289,10 @@
     {
      "date": "2026-11-25",
      "gmp": 21.0
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 18.0
     }
    ],
    "about": null,
@@ -279,7 +303,7 @@
    "name": "Shree Siddhivinayak Greentech Industries",
    "symbol": "SHREE",
    "type": "SME",
-   "status": "UPCOMING",
+   "status": "OPEN",
    "datesTba": false,
    "logo": null,
    "webUrl": "https://www.investorgain.com/gmp/shree-siddhivinayak-greentech-industries-ipo/2349/",
@@ -291,14 +315,14 @@
    "priceMax": 142.0,
    "lotSize": 1000,
    "issueSizeCr": 93.66,
-   "subscriptionTotal": null,
+   "subscriptionTotal": 0.41,
    "listingPrice": null,
    "currentPrice": null,
    "pe": 15.01,
    "gmp": {
-    "price": 20.0,
-    "percent": 14.08,
-    "updatedAt": "24-Nov 23:37"
+    "price": 25.0,
+    "percent": 17.61,
+    "updatedAt": "25-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -324,6 +348,10 @@
     {
      "date": "2026-11-25",
      "gmp": 20.0
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 25.0
     }
    ],
    "about": null,
@@ -351,9 +379,9 @@
    "currentPrice": null,
    "pe": 9.61,
    "gmp": {
-    "price": 40.0,
-    "percent": 16.33,
-    "updatedAt": "24-Nov 23:37"
+    "price": 22.0,
+    "percent": 8.98,
+    "updatedAt": "25-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -403,6 +431,10 @@
     {
      "date": "2026-11-25",
      "gmp": 40.0
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 22.0
     }
    ],
    "about": null,
@@ -432,7 +464,7 @@
    "gmp": {
     "price": 0.0,
     "percent": 0.0,
-    "updatedAt": "24-Nov 23:37"
+    "updatedAt": "25-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -478,6 +510,10 @@
     {
      "date": "2026-11-25",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 0.0
     }
    ],
    "about": {
@@ -515,9 +551,9 @@
    "currentPrice": null,
    "pe": 28.19,
    "gmp": {
-    "price": 19.0,
-    "percent": 6.99,
-    "updatedAt": "24-Nov 23:37"
+    "price": 17.0,
+    "percent": 6.25,
+    "updatedAt": "25-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -571,6 +607,10 @@
     {
      "date": "2026-11-25",
      "gmp": 19.0
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 17.0
     }
    ],
    "about": null,
@@ -595,7 +635,7 @@
    "issueSizeCr": 22.98,
    "subscriptionTotal": 12.79,
    "listingPrice": 52.8,
-   "currentPrice": 33.3,
+   "currentPrice": 31.64,
    "pe": 13.52,
    "gmp": {
     "price": 0.0,
@@ -678,6 +718,10 @@
     {
      "date": "2026-11-25",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -702,7 +746,7 @@
    "issueSizeCr": 56.68,
    "subscriptionTotal": 1.9,
    "listingPrice": 94.0,
-   "currentPrice": 56.5,
+   "currentPrice": 50.85,
    "pe": 12.62,
    "gmp": {
     "price": 1.0,
@@ -784,6 +828,10 @@
     },
     {
      "date": "2026-11-25",
+     "gmp": 1.0
+    },
+    {
+     "date": "2026-11-26",
      "gmp": 1.0
     }
    ],
@@ -892,6 +940,10 @@
     {
      "date": "2026-11-25",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -916,7 +968,7 @@
    "issueSizeCr": 57.64,
    "subscriptionTotal": 536.8,
    "listingPrice": 300.2,
-   "currentPrice": 273.8,
+   "currentPrice": 257.1,
    "pe": 13.39,
    "gmp": {
     "price": 105.0,
@@ -999,6 +1051,10 @@
     {
      "date": "2026-11-25",
      "gmp": 105.0
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 105.0
     }
    ],
    "about": null,
@@ -1023,7 +1079,7 @@
    "issueSizeCr": 56.02,
    "subscriptionTotal": 23.82,
    "listingPrice": 238.5,
-   "currentPrice": 246.8,
+   "currentPrice": 251.8,
    "pe": 11.58,
    "gmp": {
     "price": 8.0,
@@ -1106,6 +1162,10 @@
     {
      "date": "2026-11-25",
      "gmp": 8.0
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 8.0
     }
    ],
    "about": null,
@@ -1130,7 +1190,7 @@
    "issueSizeCr": 34.56,
    "subscriptionTotal": 248.58,
    "listingPrice": 160.0,
-   "currentPrice": 206.75,
+   "currentPrice": 195.75,
    "pe": 8.8,
    "gmp": {
     "price": 27.0,
@@ -1212,6 +1272,10 @@
     },
     {
      "date": "2026-11-25",
+     "gmp": 27.0
+    },
+    {
+     "date": "2026-11-26",
      "gmp": 27.0
     }
    ],
@@ -1320,6 +1384,10 @@
     {
      "date": "2026-11-25",
      "gmp": 8.0
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 8.0
     }
    ],
    "about": null,
@@ -1426,6 +1494,10 @@
     },
     {
      "date": "2026-11-25",
+     "gmp": 11.0
+    },
+    {
+     "date": "2026-11-26",
      "gmp": 11.0
     }
    ],
@@ -1534,6 +1606,10 @@
     {
      "date": "2026-11-25",
      "gmp": 4.0
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 4.0
     }
    ],
    "about": null,
@@ -1640,6 +1716,10 @@
     },
     {
      "date": "2026-11-25",
+     "gmp": 1.0
+    },
+    {
+     "date": "2026-11-26",
      "gmp": 1.0
     }
    ],
@@ -1748,6 +1828,10 @@
     {
      "date": "2026-11-25",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -1854,6 +1938,10 @@
     },
     {
      "date": "2026-11-25",
+     "gmp": 15.5
+    },
+    {
+     "date": "2026-11-26",
      "gmp": 15.5
     }
    ],
@@ -1962,6 +2050,10 @@
     {
      "date": "2026-11-25",
      "gmp": 69.0
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 69.0
     }
    ],
    "about": null,
@@ -2069,6 +2161,10 @@
     {
      "date": "2026-11-25",
      "gmp": 54.0
+    },
+    {
+     "date": "2026-11-26",
+     "gmp": 54.0
     }
    ],
    "about": null,
@@ -2175,6 +2271,10 @@
     },
     {
      "date": "2026-11-25",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-26",
      "gmp": 0.0
     }
    ],
