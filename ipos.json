@@ -2,8 +2,43 @@
  "version": 1,
  "source": "InvestorGain via Apify",
  "sourceUrl": "https://www.investorgain.com",
- "updatedAt": "2026-11-26T05:16:01+05:30",
+ "updatedAt": "2026-11-27T05:28:48+05:30",
  "ipos": [
+  {
+   "id": "swara-baby-products-ipo",
+   "name": "Swara Baby Products",
+   "symbol": "SWARA",
+   "type": "MAINBOARD",
+   "status": "UPCOMING",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/swara-baby-products-ipo/2340/",
+   "openDate": null,
+   "closeDate": null,
+   "allotmentDate": null,
+   "listingDate": null,
+   "priceMin": null,
+   "priceMax": null,
+   "lotSize": null,
+   "issueSizeCr": 1000.0,
+   "subscriptionTotal": null,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": null,
+   "gmp": {
+    "price": 0.0,
+    "percent": null,
+    "updatedAt": "26-Nov 17:00"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-27",
+     "gmp": 0.0
+    }
+   ],
+   "about": null,
+   "detailsUrl": "https://www.investorgain.com/ipo/swara-baby-products-ipo/2340/"
+  },
   {
    "id": "integris-medtech-ipo",
    "name": "Integris Medtech",
@@ -28,7 +63,7 @@
    "gmp": {
     "price": 0.0,
     "percent": 0.0,
-    "updatedAt": "25-Nov 5:55"
+    "updatedAt": "26-Nov 5:55"
    },
    "gmpHistory": [
     {
@@ -53,6 +88,10 @@
     },
     {
      "date": "2026-11-26",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-27",
      "gmp": 0.0
     }
    ],
@@ -81,9 +120,9 @@
    "currentPrice": null,
    "pe": 17.33,
    "gmp": {
-    "price": 21.0,
-    "percent": 32.31,
-    "updatedAt": "25-Nov 23:37"
+    "price": 24.0,
+    "percent": 36.92,
+    "updatedAt": "26-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -109,6 +148,10 @@
     {
      "date": "2026-11-26",
      "gmp": 21.0
+    },
+    {
+     "date": "2026-11-27",
+     "gmp": 24.0
     }
    ],
    "about": null,
@@ -138,7 +181,7 @@
    "gmp": {
     "price": 27.0,
     "percent": 15.7,
-    "updatedAt": "25-Nov 23:37"
+    "updatedAt": "26-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -151,6 +194,10 @@
     },
     {
      "date": "2026-11-26",
+     "gmp": 27.0
+    },
+    {
+     "date": "2026-11-27",
      "gmp": 27.0
     }
    ],
@@ -181,7 +228,7 @@
    "gmp": {
     "price": 24.0,
     "percent": 13.33,
-    "updatedAt": "25-Nov 23:37"
+    "updatedAt": "26-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -194,6 +241,10 @@
     },
     {
      "date": "2026-11-26",
+     "gmp": 24.0
+    },
+    {
+     "date": "2026-11-27",
      "gmp": 24.0
     }
    ],
@@ -222,9 +273,9 @@
    "currentPrice": null,
    "pe": 15.59,
    "gmp": {
-    "price": 4.0,
-    "percent": 4.04,
-    "updatedAt": "25-Nov 23:37"
+    "price": 3.0,
+    "percent": 3.03,
+    "updatedAt": "26-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -234,6 +285,10 @@
     {
      "date": "2026-11-26",
      "gmp": 4.0
+    },
+    {
+     "date": "2026-11-27",
+     "gmp": 3.0
     }
    ],
    "about": null,
@@ -244,7 +299,7 @@
    "name": "Foodlink F&B Holdings",
    "symbol": "FOODLINK",
    "type": "MAINBOARD",
-   "status": "UPCOMING",
+   "status": "OPEN",
    "datesTba": false,
    "logo": null,
    "webUrl": "https://www.investorgain.com/gmp/foodlink-fb-ipo/1810/",
@@ -256,14 +311,14 @@
    "priceMax": 191.0,
    "lotSize": 78,
    "issueSizeCr": 360.76,
-   "subscriptionTotal": null,
+   "subscriptionTotal": 1.1,
    "listingPrice": null,
    "currentPrice": null,
    "pe": 34.29,
    "gmp": {
-    "price": 18.0,
-    "percent": 9.42,
-    "updatedAt": "25-Nov 23:37"
+    "price": 7.0,
+    "percent": 3.66,
+    "updatedAt": "26-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -293,6 +348,10 @@
     {
      "date": "2026-11-26",
      "gmp": 18.0
+    },
+    {
+     "date": "2026-11-27",
+     "gmp": 7.0
     }
    ],
    "about": null,
@@ -315,14 +374,14 @@
    "priceMax": 142.0,
    "lotSize": 1000,
    "issueSizeCr": 93.66,
-   "subscriptionTotal": 0.41,
+   "subscriptionTotal": 1.27,
    "listingPrice": null,
    "currentPrice": null,
    "pe": 15.01,
    "gmp": {
-    "price": 25.0,
-    "percent": 17.61,
-    "updatedAt": "25-Nov 23:37"
+    "price": 2.0,
+    "percent": 1.41,
+    "updatedAt": "26-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -352,6 +411,10 @@
     {
      "date": "2026-11-26",
      "gmp": 25.0
+    },
+    {
+     "date": "2026-11-27",
+     "gmp": 2.0
     }
    ],
    "about": null,
@@ -379,9 +442,9 @@
    "currentPrice": null,
    "pe": 9.61,
    "gmp": {
-    "price": 22.0,
-    "percent": 8.98,
-    "updatedAt": "25-Nov 23:37"
+    "price": 23.0,
+    "percent": 9.39,
+    "updatedAt": "26-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -435,6 +498,10 @@
     {
      "date": "2026-11-26",
      "gmp": 22.0
+    },
+    {
+     "date": "2026-11-27",
+     "gmp": 23.0
     }
    ],
    "about": null,
@@ -462,9 +529,9 @@
    "currentPrice": null,
    "pe": 8.42,
    "gmp": {
-    "price": 0.0,
-    "percent": 0.0,
-    "updatedAt": "25-Nov 23:37"
+    "price": 0.7,
+    "percent": 0.51,
+    "updatedAt": "26-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -514,6 +581,10 @@
     {
      "date": "2026-11-26",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-27",
+     "gmp": 0.7
     }
    ],
    "about": {
@@ -534,7 +605,7 @@
    "name": "Crystal Crop Protection",
    "symbol": "CRYSTAL",
    "type": "MAINBOARD",
-   "status": "CLOSED",
+   "status": "LISTED",
    "datesTba": false,
    "logo": null,
    "webUrl": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/",
@@ -545,15 +616,15 @@
    "priceMin": null,
    "priceMax": 272.0,
    "lotSize": 55,
-   "issueSizeCr": 455.49,
+   "issueSizeCr": 455.72,
    "subscriptionTotal": 17.68,
-   "listingPrice": null,
-   "currentPrice": null,
+   "listingPrice": 278.0,
+   "currentPrice": 277.85,
    "pe": 28.19,
    "gmp": {
     "price": 17.0,
     "percent": 6.25,
-    "updatedAt": "25-Nov 23:37"
+    "updatedAt": "26-Nov 9:37"
    },
    "gmpHistory": [
     {
@@ -611,6 +682,10 @@
     {
      "date": "2026-11-26",
      "gmp": 17.0
+    },
+    {
+     "date": "2026-11-27",
+     "gmp": 17.0
     }
    ],
    "about": null,
@@ -635,7 +710,7 @@
    "issueSizeCr": 22.98,
    "subscriptionTotal": 12.79,
    "listingPrice": 52.8,
-   "currentPrice": 31.64,
+   "currentPrice": 28.48,
    "pe": 13.52,
    "gmp": {
     "price": 0.0,
@@ -722,6 +797,10 @@
     {
      "date": "2026-11-26",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-27",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -746,7 +825,7 @@
    "issueSizeCr": 56.68,
    "subscriptionTotal": 1.9,
    "listingPrice": 94.0,
-   "currentPrice": 50.85,
+   "currentPrice": 45.8,
    "pe": 12.62,
    "gmp": {
     "price": 1.0,
@@ -832,6 +911,10 @@
     },
     {
      "date": "2026-11-26",
+     "gmp": 1.0
+    },
+    {
+     "date": "2026-11-27",
      "gmp": 1.0
     }
    ],
@@ -944,6 +1027,10 @@
     {
      "date": "2026-11-26",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-27",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -968,7 +1055,7 @@
    "issueSizeCr": 57.64,
    "subscriptionTotal": 536.8,
    "listingPrice": 300.2,
-   "currentPrice": 257.1,
+   "currentPrice": 255.5,
    "pe": 13.39,
    "gmp": {
     "price": 105.0,
@@ -1055,6 +1142,10 @@
     {
      "date": "2026-11-26",
      "gmp": 105.0
+    },
+    {
+     "date": "2026-11-27",
+     "gmp": 105.0
     }
    ],
    "about": null,
@@ -1079,7 +1170,7 @@
    "issueSizeCr": 56.02,
    "subscriptionTotal": 23.82,
    "listingPrice": 238.5,
-   "currentPrice": 251.8,
+   "currentPrice": 252.85,
    "pe": 11.58,
    "gmp": {
     "price": 8.0,
@@ -1166,6 +1257,10 @@
     {
      "date": "2026-11-26",
      "gmp": 8.0
+    },
+    {
+     "date": "2026-11-27",
+     "gmp": 8.0
     }
    ],
    "about": null,
@@ -1190,7 +1285,7 @@
    "issueSizeCr": 34.56,
    "subscriptionTotal": 248.58,
    "listingPrice": 160.0,
-   "currentPrice": 195.75,
+   "currentPrice": 176.4,
    "pe": 8.8,
    "gmp": {
     "price": 27.0,
@@ -1276,6 +1371,10 @@
     },
     {
      "date": "2026-11-26",
+     "gmp": 27.0
+    },
+    {
+     "date": "2026-11-27",
      "gmp": 27.0
     }
    ],
@@ -1388,6 +1487,10 @@
     {
      "date": "2026-11-26",
      "gmp": 8.0
+    },
+    {
+     "date": "2026-11-27",
+     "gmp": 8.0
     }
    ],
    "about": null,
@@ -1498,6 +1601,10 @@
     },
     {
      "date": "2026-11-26",
+     "gmp": 11.0
+    },
+    {
+     "date": "2026-11-27",
      "gmp": 11.0
     }
    ],
@@ -1610,6 +1717,10 @@
     {
      "date": "2026-11-26",
      "gmp": 4.0
+    },
+    {
+     "date": "2026-11-27",
+     "gmp": 4.0
     }
    ],
    "about": null,
@@ -1720,6 +1831,10 @@
     },
     {
      "date": "2026-11-26",
+     "gmp": 1.0
+    },
+    {
+     "date": "2026-11-27",
      "gmp": 1.0
     }
    ],
@@ -1832,6 +1947,10 @@
     {
      "date": "2026-11-26",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-27",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -1942,6 +2061,10 @@
     },
     {
      "date": "2026-11-26",
+     "gmp": 15.5
+    },
+    {
+     "date": "2026-11-27",
      "gmp": 15.5
     }
    ],
@@ -2054,6 +2177,10 @@
     {
      "date": "2026-11-26",
      "gmp": 69.0
+    },
+    {
+     "date": "2026-11-27",
+     "gmp": 69.0
     }
    ],
    "about": null,
@@ -2164,6 +2291,10 @@
     },
     {
      "date": "2026-11-26",
+     "gmp": 54.0
+    },
+    {
+     "date": "2026-11-27",
      "gmp": 54.0
     }
    ],
@@ -14878,76 +15009,6 @@
    ],
    "about": null,
    "detailsUrl": "https://www.google.com/search?q=Sudeep+Pharma+IPO+company+profile"
-  },
-  {
-   "id": "gallard-steel-ipo",
-   "name": "Gallard Steel",
-   "symbol": "GALLARD",
-   "type": "SME",
-   "status": "LISTED",
-   "datesTba": false,
-   "logo": null,
-   "webUrl": null,
-   "openDate": null,
-   "closeDate": null,
-   "allotmentDate": null,
-   "listingDate": "2025-11-26",
-   "priceMin": null,
-   "priceMax": 150.0,
-   "lotSize": null,
-   "issueSizeCr": 37.5,
-   "subscriptionTotal": 375.54,
-   "listingPrice": 223.1,
-   "currentPrice": 139.95,
-   "pe": null,
-   "gmp": {
-    "price": 63.0,
-    "percent": 42.0,
-    "updatedAt": null
-   },
-   "gmpHistory": [
-    {
-     "date": "2025-11-25",
-     "gmp": 63.0
-    }
-   ],
-   "about": null,
-   "detailsUrl": "https://www.google.com/search?q=Gallard+Steel+IPO+company+profile"
-  },
-  {
-   "id": "excelsoft-technologies-ipo",
-   "name": "Excelsoft Technologies",
-   "symbol": "EXCELSOFT",
-   "type": "MAINBOARD",
-   "status": "LISTED",
-   "datesTba": false,
-   "logo": null,
-   "webUrl": null,
-   "openDate": null,
-   "closeDate": null,
-   "allotmentDate": null,
-   "listingDate": "2025-11-26",
-   "priceMin": null,
-   "priceMax": 120.0,
-   "lotSize": null,
-   "issueSizeCr": 500.0,
-   "subscriptionTotal": 45.46,
-   "listingPrice": 135.0,
-   "currentPrice": 74.0,
-   "pe": null,
-   "gmp": {
-    "price": 4.0,
-    "percent": 3.33,
-    "updatedAt": null
-   },
-   "gmpHistory": [
-    {
-     "date": "2025-11-25",
-     "gmp": 4.0
-    }
-   ],
-   "about": null,
-   "detailsUrl": "https://www.google.com/search?q=Excelsoft+Technologies+IPO+company+profile"
   }
  ]
 }
