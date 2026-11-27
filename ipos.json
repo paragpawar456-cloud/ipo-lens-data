@@ -2,43 +2,8 @@
  "version": 1,
  "source": "InvestorGain via Apify",
  "sourceUrl": "https://www.investorgain.com",
- "updatedAt": "2026-11-27T05:28:48+05:30",
+ "updatedAt": "2026-11-28T05:13:23+05:30",
  "ipos": [
-  {
-   "id": "swara-baby-products-ipo",
-   "name": "Swara Baby Products",
-   "symbol": "SWARA",
-   "type": "MAINBOARD",
-   "status": "UPCOMING",
-   "datesTba": false,
-   "logo": null,
-   "webUrl": "https://www.investorgain.com/gmp/swara-baby-products-ipo/2340/",
-   "openDate": null,
-   "closeDate": null,
-   "allotmentDate": null,
-   "listingDate": null,
-   "priceMin": null,
-   "priceMax": null,
-   "lotSize": null,
-   "issueSizeCr": 1000.0,
-   "subscriptionTotal": null,
-   "listingPrice": null,
-   "currentPrice": null,
-   "pe": null,
-   "gmp": {
-    "price": 0.0,
-    "percent": null,
-    "updatedAt": "26-Nov 17:00"
-   },
-   "gmpHistory": [
-    {
-     "date": "2026-11-27",
-     "gmp": 0.0
-    }
-   ],
-   "about": null,
-   "detailsUrl": "https://www.investorgain.com/ipo/swara-baby-products-ipo/2340/"
-  },
   {
    "id": "integris-medtech-ipo",
    "name": "Integris Medtech",
@@ -63,7 +28,7 @@
    "gmp": {
     "price": 0.0,
     "percent": 0.0,
-    "updatedAt": "26-Nov 5:55"
+    "updatedAt": "27-Nov 5:55"
    },
    "gmpHistory": [
     {
@@ -93,10 +58,88 @@
     {
      "date": "2026-11-27",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-28",
+     "gmp": 0.0
     }
    ],
    "about": null,
    "detailsUrl": "https://www.investorgain.com/ipo/integris-medtech-ipo/2029/"
+  },
+  {
+   "id": "vishwas-refoils-consumer-ipo",
+   "name": "Vishwas Refoils & Consumer",
+   "symbol": "VISHWAS",
+   "type": "SME",
+   "status": "UPCOMING",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/vishwas-refoils-consumer-ipo/2384/",
+   "openDate": "2026-12-03",
+   "closeDate": "2026-12-07",
+   "allotmentDate": "2026-12-08",
+   "listingDate": "2026-12-10",
+   "priceMin": null,
+   "priceMax": 90.0,
+   "lotSize": 1600,
+   "issueSizeCr": 25.78,
+   "subscriptionTotal": null,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 11.9,
+   "gmp": {
+    "price": 0.0,
+    "percent": 0.0,
+    "updatedAt": "27-Nov 23:33"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-28",
+     "gmp": 0.0
+    }
+   ],
+   "about": null,
+   "detailsUrl": "https://www.investorgain.com/ipo/vishwas-refoils-consumer-ipo/2384/"
+  },
+  {
+   "id": "swara-baby-products-ipo",
+   "name": "Swara Baby Products",
+   "symbol": "SWARA",
+   "type": "MAINBOARD",
+   "status": "UPCOMING",
+   "datesTba": false,
+   "logo": null,
+   "webUrl": "https://www.investorgain.com/gmp/swara-baby-products-ipo/2340/",
+   "openDate": "2026-12-02",
+   "closeDate": "2026-12-04",
+   "allotmentDate": "2026-12-07",
+   "listingDate": "2026-12-09",
+   "priceMin": null,
+   "priceMax": 111.0,
+   "lotSize": 135,
+   "issueSizeCr": 799.88,
+   "subscriptionTotal": null,
+   "listingPrice": null,
+   "currentPrice": null,
+   "pe": 28.39,
+   "gmp": {
+    "price": 3.0,
+    "percent": 2.7,
+    "updatedAt": "27-Nov 23:37"
+   },
+   "gmpHistory": [
+    {
+     "date": "2026-11-27",
+     "gmp": 0.0
+    },
+    {
+     "date": "2026-11-28",
+     "gmp": 3.0
+    }
+   ],
+   "about": null,
+   "detailsUrl": "https://www.investorgain.com/ipo/swara-baby-products-ipo/2340/"
   },
   {
    "id": "monomark-engineering-ipo",
@@ -120,9 +163,9 @@
    "currentPrice": null,
    "pe": 17.33,
    "gmp": {
-    "price": 24.0,
-    "percent": 36.92,
-    "updatedAt": "26-Nov 23:37"
+    "price": 20.0,
+    "percent": 30.77,
+    "updatedAt": "27-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -152,6 +195,10 @@
     {
      "date": "2026-11-27",
      "gmp": 24.0
+    },
+    {
+     "date": "2026-11-28",
+     "gmp": 20.0
     }
    ],
    "about": null,
@@ -179,9 +226,9 @@
    "currentPrice": null,
    "pe": 17.6,
    "gmp": {
-    "price": 27.0,
-    "percent": 15.7,
-    "updatedAt": "26-Nov 23:37"
+    "price": 31.0,
+    "percent": 18.02,
+    "updatedAt": "27-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -199,6 +246,10 @@
     {
      "date": "2026-11-27",
      "gmp": 27.0
+    },
+    {
+     "date": "2026-11-28",
+     "gmp": 31.0
     }
    ],
    "about": null,
@@ -228,7 +279,7 @@
    "gmp": {
     "price": 24.0,
     "percent": 13.33,
-    "updatedAt": "26-Nov 23:37"
+    "updatedAt": "27-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -246,6 +297,10 @@
     {
      "date": "2026-11-27",
      "gmp": 24.0
+    },
+    {
+     "date": "2026-11-28",
+     "gmp": 24.0
     }
    ],
    "about": null,
@@ -256,7 +311,7 @@
    "name": "Airpro Technology",
    "symbol": "AIRPRO",
    "type": "SME",
-   "status": "UPCOMING",
+   "status": "OPEN",
    "datesTba": false,
    "logo": null,
    "webUrl": "https://www.investorgain.com/gmp/airpro-technology-ipo/2316/",
@@ -268,14 +323,14 @@
    "priceMax": 99.0,
    "lotSize": 1200,
    "issueSizeCr": 35.64,
-   "subscriptionTotal": null,
+   "subscriptionTotal": 0.8,
    "listingPrice": null,
    "currentPrice": null,
    "pe": 15.59,
    "gmp": {
     "price": 3.0,
     "percent": 3.03,
-    "updatedAt": "26-Nov 23:37"
+    "updatedAt": "27-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -288,6 +343,10 @@
     },
     {
      "date": "2026-11-27",
+     "gmp": 3.0
+    },
+    {
+     "date": "2026-11-28",
      "gmp": 3.0
     }
    ],
@@ -311,14 +370,14 @@
    "priceMax": 191.0,
    "lotSize": 78,
    "issueSizeCr": 360.76,
-   "subscriptionTotal": 1.1,
+   "subscriptionTotal": 1.49,
    "listingPrice": null,
    "currentPrice": null,
    "pe": 34.29,
    "gmp": {
-    "price": 7.0,
-    "percent": 3.66,
-    "updatedAt": "26-Nov 23:37"
+    "price": 4.0,
+    "percent": 2.09,
+    "updatedAt": "27-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -352,6 +411,10 @@
     {
      "date": "2026-11-27",
      "gmp": 7.0
+    },
+    {
+     "date": "2026-11-28",
+     "gmp": 4.0
     }
    ],
    "about": null,
@@ -362,7 +425,7 @@
    "name": "Shree Siddhivinayak Greentech Industries",
    "symbol": "SHREE",
    "type": "SME",
-   "status": "OPEN",
+   "status": "CLOSED",
    "datesTba": false,
    "logo": null,
    "webUrl": "https://www.investorgain.com/gmp/shree-siddhivinayak-greentech-industries-ipo/2349/",
@@ -374,14 +437,14 @@
    "priceMax": 142.0,
    "lotSize": 1000,
    "issueSizeCr": 93.66,
-   "subscriptionTotal": 1.27,
+   "subscriptionTotal": 1.69,
    "listingPrice": null,
    "currentPrice": null,
    "pe": 15.01,
    "gmp": {
-    "price": 2.0,
-    "percent": 1.41,
-    "updatedAt": "26-Nov 23:37"
+    "price": 1.0,
+    "percent": 0.7,
+    "updatedAt": "27-Nov 23:37"
    },
    "gmpHistory": [
     {
@@ -415,6 +478,10 @@
     {
      "date": "2026-11-27",
      "gmp": 2.0
+    },
+    {
+     "date": "2026-11-28",
+     "gmp": 1.0
     }
    ],
    "about": null,
@@ -425,7 +492,7 @@
    "name": "Watrana Rentals",
    "symbol": "WATRANA",
    "type": "SME",
-   "status": "CLOSED",
+   "status": "LISTED",
    "datesTba": false,
    "logo": null,
    "webUrl": "https://www.investorgain.com/gmp/watrana-rentals-ipo/1818/",
@@ -438,13 +505,13 @@
    "lotSize": 600,
    "issueSizeCr": 120.1,
    "subscriptionTotal": 150.48,
-   "listingPrice": null,
-   "currentPrice": null,
+   "listingPrice": 243.0,
+   "currentPrice": 251.0,
    "pe": 9.61,
    "gmp": {
     "price": 23.0,
     "percent": 9.39,
-    "updatedAt": "26-Nov 23:37"
+    "updatedAt": "27-Nov 9:37"
    },
    "gmpHistory": [
     {
@@ -502,6 +569,10 @@
     {
      "date": "2026-11-27",
      "gmp": 23.0
+    },
+    {
+     "date": "2026-11-28",
+     "gmp": 23.0
     }
    ],
    "about": null,
@@ -512,7 +583,7 @@
    "name": "Mahanadi Coalfields",
    "symbol": "MAHANADI",
    "type": "MAINBOARD",
-   "status": "CLOSED",
+   "status": "LISTED",
    "datesTba": false,
    "logo": null,
    "webUrl": "https://www.investorgain.com/gmp/mahanadi-coalfields-ipo/2401/",
@@ -525,13 +596,13 @@
    "lotSize": 110,
    "issueSizeCr": 8981.12,
    "subscriptionTotal": 1.52,
-   "listingPrice": null,
-   "currentPrice": null,
+   "listingPrice": 134.0,
+   "currentPrice": 132.5,
    "pe": 8.42,
    "gmp": {
     "price": 0.7,
     "percent": 0.51,
-    "updatedAt": "26-Nov 23:37"
+    "updatedAt": "27-Nov 9:37"
    },
    "gmpHistory": [
     {
@@ -585,6 +656,10 @@
     {
      "date": "2026-11-27",
      "gmp": 0.7
+    },
+    {
+     "date": "2026-11-28",
+     "gmp": 0.7
     }
    ],
    "about": {
@@ -619,7 +694,7 @@
    "issueSizeCr": 455.72,
    "subscriptionTotal": 17.68,
    "listingPrice": 278.0,
-   "currentPrice": 277.85,
+   "currentPrice": 263.4,
    "pe": 28.19,
    "gmp": {
     "price": 17.0,
@@ -686,6 +761,10 @@
     {
      "date": "2026-11-27",
      "gmp": 17.0
+    },
+    {
+     "date": "2026-11-28",
+     "gmp": 17.0
     }
    ],
    "about": null,
@@ -710,7 +789,7 @@
    "issueSizeCr": 22.98,
    "subscriptionTotal": 12.79,
    "listingPrice": 52.8,
-   "currentPrice": 28.48,
+   "currentPrice": 31.32,
    "pe": 13.52,
    "gmp": {
     "price": 0.0,
@@ -801,6 +880,10 @@
     {
      "date": "2026-11-27",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-28",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -825,7 +908,7 @@
    "issueSizeCr": 56.68,
    "subscriptionTotal": 1.9,
    "listingPrice": 94.0,
-   "currentPrice": 45.8,
+   "currentPrice": 41.25,
    "pe": 12.62,
    "gmp": {
     "price": 1.0,
@@ -915,6 +998,10 @@
     },
     {
      "date": "2026-11-27",
+     "gmp": 1.0
+    },
+    {
+     "date": "2026-11-28",
      "gmp": 1.0
     }
    ],
@@ -1031,6 +1118,10 @@
     {
      "date": "2026-11-27",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-28",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -1145,6 +1236,10 @@
     },
     {
      "date": "2026-11-27",
+     "gmp": 105.0
+    },
+    {
+     "date": "2026-11-28",
      "gmp": 105.0
     }
    ],
@@ -1261,6 +1356,10 @@
     {
      "date": "2026-11-27",
      "gmp": 8.0
+    },
+    {
+     "date": "2026-11-28",
+     "gmp": 8.0
     }
    ],
    "about": null,
@@ -1285,7 +1384,7 @@
    "issueSizeCr": 34.56,
    "subscriptionTotal": 248.58,
    "listingPrice": 160.0,
-   "currentPrice": 176.4,
+   "currentPrice": 185.0,
    "pe": 8.8,
    "gmp": {
     "price": 27.0,
@@ -1375,6 +1474,10 @@
     },
     {
      "date": "2026-11-27",
+     "gmp": 27.0
+    },
+    {
+     "date": "2026-11-28",
      "gmp": 27.0
     }
    ],
@@ -1491,6 +1594,10 @@
     {
      "date": "2026-11-27",
      "gmp": 8.0
+    },
+    {
+     "date": "2026-11-28",
+     "gmp": 8.0
     }
    ],
    "about": null,
@@ -1605,6 +1712,10 @@
     },
     {
      "date": "2026-11-27",
+     "gmp": 11.0
+    },
+    {
+     "date": "2026-11-28",
      "gmp": 11.0
     }
    ],
@@ -1721,6 +1832,10 @@
     {
      "date": "2026-11-27",
      "gmp": 4.0
+    },
+    {
+     "date": "2026-11-28",
+     "gmp": 4.0
     }
    ],
    "about": null,
@@ -1835,6 +1950,10 @@
     },
     {
      "date": "2026-11-27",
+     "gmp": 1.0
+    },
+    {
+     "date": "2026-11-28",
      "gmp": 1.0
     }
    ],
@@ -1951,6 +2070,10 @@
     {
      "date": "2026-11-27",
      "gmp": 0.0
+    },
+    {
+     "date": "2026-11-28",
+     "gmp": 0.0
     }
    ],
    "about": null,
@@ -2066,6 +2189,10 @@
     {
      "date": "2026-11-27",
      "gmp": 15.5
+    },
+    {
+     "date": "2026-11-28",
+     "gmp": 15.5
     }
    ],
    "about": null,
@@ -2180,6 +2307,10 @@
     },
     {
      "date": "2026-11-27",
+     "gmp": 69.0
+    },
+    {
+     "date": "2026-11-28",
      "gmp": 69.0
     }
    ],
